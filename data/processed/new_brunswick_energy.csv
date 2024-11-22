@@ -1,0 +1,966 @@
+date,generation_type,megawatt_hours
+2008-01,combustible fuels,1017195.0
+2008-01,hydraulic turbine,285671.0
+2008-01,nuclear steam turbine,407950.0
+2008-01,wind power turbine,0.0
+2008-02,combustible fuels,897041.0
+2008-02,hydraulic turbine,200507.0
+2008-02,nuclear steam turbine,379945.0
+2008-02,wind power turbine,0.0
+2008-03,combustible fuels,883082.0
+2008-03,hydraulic turbine,174241.0
+2008-03,nuclear steam turbine,363409.0
+2008-03,wind power turbine,0.0
+2008-04,combustible fuels,710424.0
+2008-04,hydraulic turbine,420699.0
+2008-04,nuclear steam turbine,0.0
+2008-04,wind power turbine,0.0
+2008-05,combustible fuels,427707.0
+2008-05,hydraulic turbine,456709.0
+2008-05,nuclear steam turbine,-4493.0
+2008-05,wind power turbine,0.0
+2008-06,combustible fuels,660029.0
+2008-06,hydraulic turbine,223654.0
+2008-06,nuclear steam turbine,0.0
+2008-06,wind power turbine,0.0
+2008-07,combustible fuels,760903.0
+2008-07,hydraulic turbine,267831.0
+2008-07,nuclear steam turbine,-3952.0
+2008-07,wind power turbine,0.0
+2008-08,combustible fuels,808317.0
+2008-08,hydraulic turbine,328225.0
+2008-08,nuclear steam turbine,-4517.0
+2008-08,wind power turbine,0.0
+2008-09,combustible fuels,667706.0
+2008-09,hydraulic turbine,129983.0
+2008-09,nuclear steam turbine,-3353.0
+2008-09,wind power turbine,0.0
+2008-10,combustible fuels,739369.0
+2008-10,hydraulic turbine,287734.0
+2008-10,nuclear steam turbine,-3360.0
+2008-10,wind power turbine,0.0
+2008-11,combustible fuels,826421.0
+2008-11,hydraulic turbine,413772.0
+2008-11,nuclear steam turbine,-3071.0
+2008-11,wind power turbine,0.0
+2008-12,combustible fuels,1143976.0
+2008-12,hydraulic turbine,300066.0
+2008-12,nuclear steam turbine,-3638.0
+2008-12,wind power turbine,0.0
+2009-01,combustible fuels,1379837.0
+2009-01,hydraulic turbine,187217.0
+2009-01,nuclear steam turbine,-3673.0
+2009-01,wind power turbine,0.0
+2009-02,combustible fuels,982270.0
+2009-02,hydraulic turbine,121047.0
+2009-02,nuclear steam turbine,-3547.0
+2009-02,wind power turbine,0.0
+2009-03,combustible fuels,1020124.0
+2009-03,hydraulic turbine,199168.0
+2009-03,nuclear steam turbine,-3628.0
+2009-03,wind power turbine,0.0
+2009-04,combustible fuels,728662.0
+2009-04,hydraulic turbine,558396.0
+2009-04,nuclear steam turbine,-3256.0
+2009-04,wind power turbine,0.0
+2009-05,combustible fuels,629825.0
+2009-05,hydraulic turbine,449761.0
+2009-05,nuclear steam turbine,-3751.0
+2009-05,wind power turbine,0.0
+2009-06,combustible fuels,600091.0
+2009-06,hydraulic turbine,273277.0
+2009-06,nuclear steam turbine,-3540.0
+2009-06,wind power turbine,0.0
+2009-07,combustible fuels,719198.0
+2009-07,hydraulic turbine,294512.0
+2009-07,nuclear steam turbine,-3141.0
+2009-07,wind power turbine,0.0
+2009-08,combustible fuels,675814.0
+2009-08,hydraulic turbine,245591.0
+2009-08,nuclear steam turbine,-3323.0
+2009-08,wind power turbine,0.0
+2009-09,combustible fuels,691570.0
+2009-09,hydraulic turbine,67771.0
+2009-09,nuclear steam turbine,-3787.0
+2009-09,wind power turbine,0.0
+2009-10,combustible fuels,767728.0
+2009-10,hydraulic turbine,251247.0
+2009-10,nuclear steam turbine,-3959.0
+2009-10,wind power turbine,0.0
+2009-11,combustible fuels,794700.0
+2009-11,hydraulic turbine,293270.0
+2009-11,nuclear steam turbine,-3790.0
+2009-11,wind power turbine,0.0
+2009-12,combustible fuels,854272.0
+2009-12,hydraulic turbine,309287.0
+2009-12,nuclear steam turbine,-4336.0
+2009-12,wind power turbine,0.0
+2010-01,combustible fuels,863140.0
+2010-01,hydraulic turbine,185189.0
+2010-01,nuclear steam turbine,-4605.0
+2010-01,wind power turbine,0.0
+2010-02,combustible fuels,808537.0
+2010-02,hydraulic turbine,173388.0
+2010-02,nuclear steam turbine,-4123.0
+2010-02,wind power turbine,0.0
+2010-03,combustible fuels,754959.0
+2010-03,hydraulic turbine,271493.0
+2010-03,nuclear steam turbine,-4211.0
+2010-03,wind power turbine,0.0
+2010-04,combustible fuels,622580.0
+2010-04,hydraulic turbine,539135.0
+2010-04,nuclear steam turbine,-3956.0
+2010-04,wind power turbine,31712.0
+2010-05,combustible fuels,488999.0
+2010-05,hydraulic turbine,294605.0
+2010-05,nuclear steam turbine,-3907.0
+2010-05,wind power turbine,36097.0
+2010-06,combustible fuels,434045.0
+2010-06,hydraulic turbine,192507.0
+2010-06,nuclear steam turbine,-3706.0
+2010-06,wind power turbine,29093.0
+2010-07,combustible fuels,563630.0
+2010-07,hydraulic turbine,210047.0
+2010-07,nuclear steam turbine,-3684.0
+2010-07,wind power turbine,32540.0
+2010-08,combustible fuels,597838.0
+2010-08,hydraulic turbine,86604.0
+2010-08,nuclear steam turbine,-3714.0
+2010-08,wind power turbine,21439.0
+2010-09,combustible fuels,562472.0
+2010-09,hydraulic turbine,112820.0
+2010-09,nuclear steam turbine,-2734.0
+2010-09,wind power turbine,35754.0
+2010-10,combustible fuels,554899.0
+2010-10,hydraulic turbine,362350.0
+2010-10,nuclear steam turbine,-3607.0
+2010-10,wind power turbine,57761.0
+2010-11,combustible fuels,589971.0
+2010-11,hydraulic turbine,406987.0
+2010-11,nuclear steam turbine,-2915.0
+2010-11,wind power turbine,43864.0
+2010-12,combustible fuels,662845.0
+2010-12,hydraulic turbine,461335.0
+2010-12,nuclear steam turbine,-3745.0
+2010-12,wind power turbine,29685.0
+2011-01,combustible fuels,809214.0
+2011-01,hydraulic turbine,208627.0
+2011-01,nuclear steam turbine,-4285.0
+2011-01,wind power turbine,20975.0
+2011-02,combustible fuels,712432.0
+2011-02,hydraulic turbine,118892.0
+2011-02,nuclear steam turbine,-4032.0
+2011-02,wind power turbine,30506.0
+2011-03,combustible fuels,643103.0
+2011-03,hydraulic turbine,325700.0
+2011-03,nuclear steam turbine,-4149.0
+2011-03,wind power turbine,65224.0
+2011-04,combustible fuels,529660.0
+2011-04,hydraulic turbine,499177.0
+2011-04,nuclear steam turbine,-4039.0
+2011-04,wind power turbine,63540.0
+2011-05,combustible fuels,447796.0
+2011-05,hydraulic turbine,558014.0
+2011-05,nuclear steam turbine,-4075.0
+2011-05,wind power turbine,57745.0
+2011-06,combustible fuels,442978.0
+2011-06,hydraulic turbine,413313.0
+2011-06,nuclear steam turbine,-3516.0
+2011-06,wind power turbine,30790.0
+2011-07,combustible fuels,550940.0
+2011-07,hydraulic turbine,265752.0
+2011-07,nuclear steam turbine,-3495.0
+2011-07,wind power turbine,37116.0
+2011-08,combustible fuels,462763.0
+2011-08,hydraulic turbine,362585.0
+2011-08,nuclear steam turbine,-3407.0
+2011-08,wind power turbine,38098.0
+2011-09,combustible fuels,465122.0
+2011-09,hydraulic turbine,369666.0
+2011-09,nuclear steam turbine,-3450.0
+2011-09,wind power turbine,41616.0
+2011-10,combustible fuels,579794.0
+2011-10,hydraulic turbine,255073.0
+2011-10,nuclear steam turbine,-3692.0
+2011-10,wind power turbine,64294.0
+2011-11,combustible fuels,573124.0
+2011-11,hydraulic turbine,198757.0
+2011-11,nuclear steam turbine,-4098.0
+2011-11,wind power turbine,74280.0
+2011-12,combustible fuels,662521.0
+2011-12,hydraulic turbine,249610.0
+2011-12,nuclear steam turbine,-4378.0
+2011-12,wind power turbine,60536.0
+2012-01,combustible fuels,732091.0
+2012-01,hydraulic turbine,178764.0
+2012-01,nuclear steam turbine,-5107.0
+2012-01,wind power turbine,53438.0
+2012-02,combustible fuels,690191.0
+2012-02,hydraulic turbine,132200.0
+2012-02,nuclear steam turbine,-4148.0
+2012-02,wind power turbine,55289.0
+2012-03,combustible fuels,538287.0
+2012-03,hydraulic turbine,312556.0
+2012-03,nuclear steam turbine,-4698.0
+2012-03,wind power turbine,61605.0
+2012-04,combustible fuels,337466.0
+2012-04,hydraulic turbine,457106.0
+2012-04,nuclear steam turbine,-4919.0
+2012-04,wind power turbine,50051.0
+2012-05,combustible fuels,313595.0
+2012-05,hydraulic turbine,436708.0
+2012-05,nuclear steam turbine,-6152.0
+2012-05,wind power turbine,43530.0
+2012-06,combustible fuels,290724.0
+2012-06,hydraulic turbine,265463.0
+2012-06,nuclear steam turbine,-6301.0
+2012-06,wind power turbine,33916.0
+2012-07,combustible fuels,309433.0
+2012-07,hydraulic turbine,203045.0
+2012-07,nuclear steam turbine,-6637.0
+2012-07,wind power turbine,34183.0
+2012-08,combustible fuels,492141.0
+2012-08,hydraulic turbine,104339.0
+2012-08,nuclear steam turbine,-13423.0
+2012-08,wind power turbine,33891.0
+2012-09,combustible fuels,453967.0
+2012-09,hydraulic turbine,54731.0
+2012-09,nuclear steam turbine,-18154.0
+2012-09,wind power turbine,48112.0
+2012-10,combustible fuels,458623.0
+2012-10,hydraulic turbine,256096.0
+2012-10,nuclear steam turbine,-19877.0
+2012-10,wind power turbine,64268.0
+2012-11,combustible fuels,595024.0
+2012-11,hydraulic turbine,272367.0
+2012-11,nuclear steam turbine,201755.0
+2012-11,wind power turbine,50427.0
+2012-12,combustible fuels,684133.0
+2012-12,hydraulic turbine,152511.0
+2012-12,nuclear steam turbine,212272.0
+2012-12,wind power turbine,50165.0
+2013-01,combustible fuels,659742.0
+2013-01,hydraulic turbine,131652.0
+2013-01,nuclear steam turbine,417397.0
+2013-01,wind power turbine,59509.0
+2013-02,combustible fuels,590162.0
+2013-02,hydraulic turbine,186102.0
+2013-02,nuclear steam turbine,446380.0
+2013-02,wind power turbine,42916.0
+2013-03,combustible fuels,606213.0
+2013-03,hydraulic turbine,252298.0
+2013-03,nuclear steam turbine,173178.0
+2013-03,wind power turbine,32945.0
+2013-04,combustible fuels,469401.0
+2013-04,hydraulic turbine,438293.0
+2013-04,nuclear steam turbine,29287.0
+2013-04,wind power turbine,58750.0
+2013-05,combustible fuels,412632.0
+2013-05,hydraulic turbine,457905.0
+2013-05,nuclear steam turbine,21354.0
+2013-05,wind power turbine,47723.0
+2013-06,combustible fuels,365631.0
+2013-06,hydraulic turbine,411266.0
+2013-06,nuclear steam turbine,386290.0
+2013-06,wind power turbine,35158.0
+2013-07,combustible fuels,471429.0
+2013-07,hydraulic turbine,255035.0
+2013-07,nuclear steam turbine,456261.0
+2013-07,wind power turbine,35878.0
+2013-08,combustible fuels,473121.0
+2013-08,hydraulic turbine,277955.0
+2013-08,nuclear steam turbine,456458.0
+2013-08,wind power turbine,29977.0
+2013-09,combustible fuels,381029.0
+2013-09,hydraulic turbine,332922.0
+2013-09,nuclear steam turbine,425943.0
+2013-09,wind power turbine,46637.0
+2013-10,combustible fuels,493579.0
+2013-10,hydraulic turbine,159593.0
+2013-10,nuclear steam turbine,257067.0
+2013-10,wind power turbine,47099.0
+2013-11,combustible fuels,557326.0
+2013-11,hydraulic turbine,229537.0
+2013-11,nuclear steam turbine,368794.0
+2013-11,wind power turbine,69379.0
+2013-12,combustible fuels,683853.0
+2013-12,hydraulic turbine,212083.0
+2013-12,nuclear steam turbine,491839.0
+2013-12,wind power turbine,48347.0
+2014-01,combustible fuels,797468.0
+2014-01,hydraulic turbine,275516.0
+2014-01,nuclear steam turbine,490010.0
+2014-01,wind power turbine,69708.0
+2014-02,combustible fuels,747184.0
+2014-02,hydraulic turbine,150240.0
+2014-02,nuclear steam turbine,443551.0
+2014-02,wind power turbine,51915.0
+2014-03,combustible fuels,797421.0
+2014-03,hydraulic turbine,99413.0
+2014-03,nuclear steam turbine,496794.0
+2014-03,wind power turbine,76279.0
+2014-04,combustible fuels,425038.0
+2014-04,hydraulic turbine,331958.0
+2014-04,nuclear steam turbine,410407.0
+2014-04,wind power turbine,58037.0
+2014-05,combustible fuels,528380.0
+2014-05,hydraulic turbine,508077.0
+2014-05,nuclear steam turbine,28652.0
+2014-05,wind power turbine,32132.0
+2014-06,combustible fuels,573188.0
+2014-06,hydraulic turbine,265763.0
+2014-06,nuclear steam turbine,-5920.0
+2014-06,wind power turbine,31282.0
+2014-07,combustible fuels,490776.0
+2014-07,hydraulic turbine,207120.0
+2014-07,nuclear steam turbine,444924.0
+2014-07,wind power turbine,50131.0
+2014-08,combustible fuels,465091.0
+2014-08,hydraulic turbine,152568.0
+2014-08,nuclear steam turbine,488636.0
+2014-08,wind power turbine,31618.0
+2014-09,combustible fuels,468478.0
+2014-09,hydraulic turbine,91385.0
+2014-09,nuclear steam turbine,473601.0
+2014-09,wind power turbine,53986.0
+2014-10,combustible fuels,471308.0
+2014-10,hydraulic turbine,204525.0
+2014-10,nuclear steam turbine,489051.0
+2014-10,wind power turbine,61527.0
+2014-11,combustible fuels,488806.0
+2014-11,hydraulic turbine,294988.0
+2014-11,nuclear steam turbine,475404.0
+2014-11,wind power turbine,65895.0
+2014-12,combustible fuels,547901.0
+2014-12,hydraulic turbine,352044.0
+2014-12,nuclear steam turbine,490401.0
+2014-12,wind power turbine,49572.0
+2015-01,combustible fuels,673955.0
+2015-01,hydraulic turbine,252131.0
+2015-01,nuclear steam turbine,492766.0
+2015-01,wind power turbine,68048.0
+2015-02,combustible fuels,843127.0
+2015-02,hydraulic turbine,125051.0
+2015-02,nuclear steam turbine,447388.0
+2015-02,wind power turbine,50293.0
+2015-03,combustible fuels,809297.0
+2015-03,hydraulic turbine,85630.0
+2015-03,nuclear steam turbine,283736.0
+2015-03,wind power turbine,78611.0
+2015-04,combustible fuels,403057.0
+2015-04,hydraulic turbine,328459.0
+2015-04,nuclear steam turbine,160142.0
+2015-04,wind power turbine,50674.0
+2015-05,combustible fuels,263132.0
+2015-05,hydraulic turbine,412483.0
+2015-05,nuclear steam turbine,426669.0
+2015-05,wind power turbine,61017.0
+2015-06,combustible fuels,254689.0
+2015-06,hydraulic turbine,290636.0
+2015-06,nuclear steam turbine,279227.0
+2015-06,wind power turbine,44655.0
+2015-07,combustible fuels,356514.0
+2015-07,hydraulic turbine,194777.0
+2015-07,nuclear steam turbine,379043.0
+2015-07,wind power turbine,27867.0
+2015-08,combustible fuels,524324.0
+2015-08,hydraulic turbine,179516.0
+2015-08,nuclear steam turbine,82202.0
+2015-08,wind power turbine,36249.0
+2015-09,combustible fuels,449801.0
+2015-09,hydraulic turbine,114060.0
+2015-09,nuclear steam turbine,361618.0
+2015-09,wind power turbine,49203.0
+2015-10,combustible fuels,413666.0
+2015-10,hydraulic turbine,186687.0
+2015-10,nuclear steam turbine,402428.0
+2015-10,wind power turbine,64405.0
+2015-11,combustible fuels,508588.0
+2015-11,hydraulic turbine,246317.0
+2015-11,nuclear steam turbine,472130.0
+2015-11,wind power turbine,64097.0
+2015-12,combustible fuels,531187.0
+2015-12,hydraulic turbine,312077.0
+2015-12,nuclear steam turbine,489687.0
+2015-12,wind power turbine,50608.0
+2016-01,combustible fuels,667083.0
+2016-01,hydraulic turbine,269647.0
+2016-01,nuclear steam turbine,490425.0
+2016-01,other types of electricity generation,0.0
+2016-01,solar,0.0
+2016-01,tidal power turbine,0.0
+2016-01,wind power turbine,86843.0
+2016-02,combustible fuels,590957.0
+2016-02,hydraulic turbine,252946.0
+2016-02,nuclear steam turbine,459917.0
+2016-02,other types of electricity generation,0.0
+2016-02,solar,0.0
+2016-02,tidal power turbine,0.0
+2016-02,wind power turbine,88323.0
+2016-03,combustible fuels,500168.0
+2016-03,hydraulic turbine,354185.0
+2016-03,nuclear steam turbine,491101.0
+2016-03,other types of electricity generation,0.0
+2016-03,solar,0.0
+2016-03,tidal power turbine,0.0
+2016-03,wind power turbine,71832.0
+2016-04,combustible fuels,558655.0
+2016-04,hydraulic turbine,560171.0
+2016-04,nuclear steam turbine,10664.0
+2016-04,other types of electricity generation,0.0
+2016-04,solar,0.0
+2016-04,tidal power turbine,0.0
+2016-04,wind power turbine,71500.0
+2016-05,combustible fuels,514818.0
+2016-05,hydraulic turbine,477847.0
+2016-05,nuclear steam turbine,0.0
+2016-05,other types of electricity generation,0.0
+2016-05,solar,0.0
+2016-05,tidal power turbine,0.0
+2016-05,wind power turbine,59776.0
+2016-06,combustible fuels,478872.0
+2016-06,hydraulic turbine,296736.0
+2016-06,nuclear steam turbine,252507.0
+2016-06,other types of electricity generation,0.0
+2016-06,solar,0.0
+2016-06,tidal power turbine,0.0
+2016-06,wind power turbine,58884.0
+2016-07,combustible fuels,503636.0
+2016-07,hydraulic turbine,225252.0
+2016-07,nuclear steam turbine,485950.0
+2016-07,other types of electricity generation,0.0
+2016-07,solar,0.0
+2016-07,tidal power turbine,0.0
+2016-07,wind power turbine,44361.0
+2016-08,combustible fuels,515840.0
+2016-08,hydraulic turbine,178585.0
+2016-08,nuclear steam turbine,491403.0
+2016-08,other types of electricity generation,0.0
+2016-08,solar,0.0
+2016-08,tidal power turbine,0.0
+2016-08,wind power turbine,49881.0
+2016-09,combustible fuels,494996.0
+2016-09,hydraulic turbine,112596.0
+2016-09,nuclear steam turbine,474069.0
+2016-09,other types of electricity generation,0.0
+2016-09,solar,0.0
+2016-09,tidal power turbine,0.0
+2016-09,wind power turbine,55751.0
+2016-10,combustible fuels,449370.0
+2016-10,hydraulic turbine,137699.0
+2016-10,nuclear steam turbine,423733.0
+2016-10,other types of electricity generation,0.0
+2016-10,solar,0.0
+2016-10,tidal power turbine,0.0
+2016-10,wind power turbine,68964.0
+2016-11,combustible fuels,544015.0
+2016-11,hydraulic turbine,225269.0
+2016-11,nuclear steam turbine,473433.0
+2016-11,other types of electricity generation,0.0
+2016-11,solar,0.0
+2016-11,tidal power turbine,0.0
+2016-11,wind power turbine,58176.0
+2016-12,combustible fuels,798913.0
+2016-12,hydraulic turbine,163806.0
+2016-12,nuclear steam turbine,491638.0
+2016-12,other types of electricity generation,0.0
+2016-12,solar,0.0
+2016-12,tidal power turbine,0.0
+2016-12,wind power turbine,54378.0
+2017-01,combustible fuels,672029.0
+2017-01,hydraulic turbine,179291.0
+2017-01,nuclear steam turbine,482617.0
+2017-01,other types of electricity generation,0.0
+2017-01,solar,0.0
+2017-01,tidal power turbine,0.0
+2017-01,wind power turbine,74599.0
+2017-02,combustible fuels,612031.0
+2017-02,hydraulic turbine,178136.0
+2017-02,nuclear steam turbine,462843.0
+2017-02,other types of electricity generation,0.0
+2017-02,solar,0.0
+2017-02,tidal power turbine,0.0
+2017-02,wind power turbine,70853.0
+2017-03,combustible fuels,599375.0
+2017-03,hydraulic turbine,159860.0
+2017-03,nuclear steam turbine,445094.0
+2017-03,other types of electricity generation,0.0
+2017-03,solar,0.0
+2017-03,tidal power turbine,0.0
+2017-03,wind power turbine,79024.0
+2017-04,combustible fuels,394633.0
+2017-04,hydraulic turbine,440411.0
+2017-04,nuclear steam turbine,104457.0
+2017-04,other types of electricity generation,0.0
+2017-04,solar,0.0
+2017-04,tidal power turbine,0.0
+2017-04,wind power turbine,52096.0
+2017-05,combustible fuels,251772.0
+2017-05,hydraulic turbine,448423.0
+2017-05,nuclear steam turbine,381727.0
+2017-05,other types of electricity generation,0.0
+2017-05,solar,0.0
+2017-05,tidal power turbine,0.0
+2017-05,wind power turbine,68780.0
+2017-06,combustible fuels,112211.0
+2017-06,hydraulic turbine,206166.0
+2017-06,nuclear steam turbine,473163.0
+2017-06,other types of electricity generation,0.0
+2017-06,solar,0.0
+2017-06,tidal power turbine,0.0
+2017-06,wind power turbine,59351.0
+2017-07,combustible fuels,293232.0
+2017-07,hydraulic turbine,146269.0
+2017-07,nuclear steam turbine,489785.0
+2017-07,other types of electricity generation,0.0
+2017-07,solar,0.0
+2017-07,tidal power turbine,0.0
+2017-07,wind power turbine,43718.0
+2017-08,combustible fuels,367244.0
+2017-08,hydraulic turbine,58592.0
+2017-08,nuclear steam turbine,431080.0
+2017-08,other types of electricity generation,0.0
+2017-08,solar,0.0
+2017-08,tidal power turbine,0.0
+2017-08,wind power turbine,46597.0
+2017-09,combustible fuels,331299.0
+2017-09,hydraulic turbine,76157.0
+2017-09,nuclear steam turbine,471234.0
+2017-09,other types of electricity generation,0.0
+2017-09,solar,0.0
+2017-09,tidal power turbine,0.0
+2017-09,wind power turbine,51204.0
+2017-10,combustible fuels,313388.0
+2017-10,hydraulic turbine,133256.0
+2017-10,nuclear steam turbine,433626.0
+2017-10,other types of electricity generation,0.0
+2017-10,solar,0.0
+2017-10,tidal power turbine,0.0
+2017-10,wind power turbine,95432.0
+2017-11,combustible fuels,360801.0
+2017-11,hydraulic turbine,352060.0
+2017-11,nuclear steam turbine,464633.0
+2017-11,other types of electricity generation,0.0
+2017-11,solar,0.0
+2017-11,tidal power turbine,0.0
+2017-11,wind power turbine,89366.0
+2017-12,combustible fuels,573629.0
+2017-12,hydraulic turbine,204758.0
+2017-12,nuclear steam turbine,479715.0
+2017-12,other types of electricity generation,0.0
+2017-12,solar,0.0
+2017-12,tidal power turbine,0.0
+2017-12,wind power turbine,87554.0
+2018-01,combustible fuels,809041.0
+2018-01,hydraulic turbine,259786.0
+2018-01,nuclear steam turbine,491865.0
+2018-01,other types of electricity generation,0.0
+2018-01,solar,0.0
+2018-01,tidal power turbine,0.0
+2018-01,wind power turbine,80581.0
+2018-02,combustible fuels,536995.0
+2018-02,hydraulic turbine,184767.0
+2018-02,nuclear steam turbine,445602.0
+2018-02,other types of electricity generation,0.0
+2018-02,solar,0.0
+2018-02,tidal power turbine,0.0
+2018-02,wind power turbine,68429.0
+2018-03,combustible fuels,485681.0
+2018-03,hydraulic turbine,189312.0
+2018-03,nuclear steam turbine,494395.0
+2018-03,other types of electricity generation,0.0
+2018-03,solar,0.0
+2018-03,tidal power turbine,0.0
+2018-03,wind power turbine,74906.0
+2018-04,combustible fuels,399268.0
+2018-04,hydraulic turbine,402714.0
+2018-04,nuclear steam turbine,90700.0
+2018-04,other types of electricity generation,0.0
+2018-04,solar,0.0
+2018-04,tidal power turbine,0.0
+2018-04,wind power turbine,69393.0
+2018-05,combustible fuels,379361.0
+2018-05,hydraulic turbine,433024.0
+2018-05,nuclear steam turbine,0.0
+2018-05,other types of electricity generation,0.0
+2018-05,solar,0.0
+2018-05,tidal power turbine,0.0
+2018-05,wind power turbine,67839.0
+2018-06,combustible fuels,211430.0
+2018-06,hydraulic turbine,160009.0
+2018-06,nuclear steam turbine,475678.0
+2018-06,other types of electricity generation,0.0
+2018-06,solar,0.0
+2018-06,tidal power turbine,0.0
+2018-06,wind power turbine,58374.0
+2018-07,combustible fuels,400699.0
+2018-07,hydraulic turbine,84271.0
+2018-07,nuclear steam turbine,485868.0
+2018-07,other types of electricity generation,0.0
+2018-07,solar,0.0
+2018-07,tidal power turbine,0.0
+2018-07,wind power turbine,52142.0
+2018-08,combustible fuels,409016.0
+2018-08,hydraulic turbine,112824.0
+2018-08,nuclear steam turbine,479776.0
+2018-08,other types of electricity generation,0.0
+2018-08,solar,0.0
+2018-08,tidal power turbine,0.0
+2018-08,wind power turbine,37210.0
+2018-09,combustible fuels,377794.0
+2018-09,hydraulic turbine,57932.0
+2018-09,nuclear steam turbine,470177.0
+2018-09,other types of electricity generation,0.0
+2018-09,solar,0.0
+2018-09,tidal power turbine,0.0
+2018-09,wind power turbine,56286.0
+2018-10,combustible fuels,420573.0
+2018-10,hydraulic turbine,122064.0
+2018-10,nuclear steam turbine,485202.0
+2018-10,other types of electricity generation,0.0
+2018-10,solar,0.0
+2018-10,tidal power turbine,0.0
+2018-10,wind power turbine,85423.0
+2018-11,combustible fuels,440964.0
+2018-11,hydraulic turbine,271479.0
+2018-11,nuclear steam turbine,470600.0
+2018-11,other types of electricity generation,0.0
+2018-11,solar,0.0
+2018-11,tidal power turbine,0.0
+2018-11,wind power turbine,95997.0
+2018-12,combustible fuels,533598.0
+2018-12,hydraulic turbine,251368.0
+2018-12,nuclear steam turbine,492112.0
+2018-12,other types of electricity generation,0.0
+2018-12,solar,0.0
+2018-12,tidal power turbine,0.0
+2018-12,wind power turbine,77774.0
+2019-01,combustible fuels,679245.0
+2019-01,hydraulic turbine,246124.0
+2019-01,nuclear steam turbine,490893.0
+2019-01,other types of electricity generation,0.0
+2019-01,solar,0.0
+2019-01,tidal power turbine,0.0
+2019-01,wind power turbine,91195.0
+2019-02,combustible fuels,497867.0
+2019-02,hydraulic turbine,175382.0
+2019-02,nuclear steam turbine,440178.0
+2019-02,other types of electricity generation,0.0
+2019-02,solar,0.0
+2019-02,tidal power turbine,0.0
+2019-02,wind power turbine,104464.0
+2019-03,combustible fuels,491897.0
+2019-03,hydraulic turbine,178660.0
+2019-03,nuclear steam turbine,488974.0
+2019-03,other types of electricity generation,0.0
+2019-03,solar,0.0
+2019-03,tidal power turbine,0.0
+2019-03,wind power turbine,91195.0
+2019-04,combustible fuels,320143.0
+2019-04,hydraulic turbine,440765.0
+2019-04,nuclear steam turbine,72783.0
+2019-04,other types of electricity generation,0.0
+2019-04,solar,0.0
+2019-04,tidal power turbine,0.0
+2019-04,wind power turbine,85530.0
+2019-05,combustible fuels,266792.0
+2019-05,hydraulic turbine,516075.0
+2019-05,nuclear steam turbine,260174.0
+2019-05,other types of electricity generation,0.0
+2019-05,solar,0.0
+2019-05,tidal power turbine,0.0
+2019-05,wind power turbine,62083.0
+2019-06,combustible fuels,118242.0
+2019-06,hydraulic turbine,253987.0
+2019-06,nuclear steam turbine,477443.0
+2019-06,other types of electricity generation,0.0
+2019-06,solar,0.0
+2019-06,tidal power turbine,0.0
+2019-06,wind power turbine,48488.0
+2019-07,combustible fuels,436792.0
+2019-07,hydraulic turbine,148942.0
+2019-07,nuclear steam turbine,362281.0
+2019-07,other types of electricity generation,0.0
+2019-07,solar,0.0
+2019-07,tidal power turbine,0.0
+2019-07,wind power turbine,50208.0
+2019-08,combustible fuels,334698.0
+2019-08,hydraulic turbine,102360.0
+2019-08,nuclear steam turbine,489549.0
+2019-08,other types of electricity generation,0.0
+2019-08,solar,0.0
+2019-08,tidal power turbine,0.0
+2019-08,wind power turbine,30177.0
+2019-09,combustible fuels,341947.0
+2019-09,hydraulic turbine,119377.0
+2019-09,nuclear steam turbine,473096.0
+2019-09,other types of electricity generation,0.0
+2019-09,solar,0.0
+2019-09,tidal power turbine,0.0
+2019-09,wind power turbine,64376.0
+2019-10,combustible fuels,310352.0
+2019-10,hydraulic turbine,192293.0
+2019-10,nuclear steam turbine,490128.0
+2019-10,other types of electricity generation,0.0
+2019-10,solar,0.0
+2019-10,tidal power turbine,0.0
+2019-10,wind power turbine,61371.0
+2019-11,combustible fuels,385656.0
+2019-11,hydraulic turbine,325492.0
+2019-11,nuclear steam turbine,476626.0
+2019-11,other types of electricity generation,0.0
+2019-11,solar,0.0
+2019-11,tidal power turbine,0.0
+2019-11,wind power turbine,92931.0
+2019-12,combustible fuels,457088.0
+2019-12,hydraulic turbine,303317.0
+2019-12,nuclear steam turbine,493553.0
+2019-12,other types of electricity generation,0.0
+2019-12,solar,0.0
+2019-12,tidal power turbine,0.0
+2019-12,wind power turbine,96946.0
+2020-01,combustible fuels,453853.0
+2020-01,hydraulic turbine,205824.0
+2020-01,nuclear steam turbine,495095.0
+2020-01,other types of electricity generation,0.0
+2020-01,solar,0.0
+2020-01,tidal power turbine,0.0
+2020-01,wind power turbine,62459.0
+2020-02,combustible fuels,452435.0
+2020-02,hydraulic turbine,139334.0
+2020-02,nuclear steam turbine,464181.0
+2020-02,other types of electricity generation,0.0
+2020-02,solar,0.0
+2020-02,tidal power turbine,0.0
+2020-02,wind power turbine,82623.0
+2020-03,combustible fuels,381843.0
+2020-03,hydraulic turbine,190011.0
+2020-03,nuclear steam turbine,491967.0
+2020-03,other types of electricity generation,0.0
+2020-03,solar,0.0
+2020-03,tidal power turbine,0.0
+2020-03,wind power turbine,90948.0
+2020-04,combustible fuels,155544.0
+2020-04,hydraulic turbine,518035.0
+2020-04,nuclear steam turbine,477901.0
+2020-04,other types of electricity generation,0.0
+2020-04,solar,0.0
+2020-04,tidal power turbine,0.0
+2020-04,wind power turbine,85932.0
+2020-05,combustible fuels,113990.0
+2020-05,hydraulic turbine,510862.0
+2020-05,nuclear steam turbine,493408.0
+2020-05,other types of electricity generation,0.0
+2020-05,solar,0.0
+2020-05,tidal power turbine,0.0
+2020-05,wind power turbine,83744.0
+2020-06,combustible fuels,94308.0
+2020-06,hydraulic turbine,150432.0
+2020-06,nuclear steam turbine,474947.0
+2020-06,other types of electricity generation,0.0
+2020-06,solar,0.0
+2020-06,tidal power turbine,0.0
+2020-06,wind power turbine,51264.0
+2020-07,combustible fuels,151605.0
+2020-07,hydraulic turbine,72921.0
+2020-07,nuclear steam turbine,491827.0
+2020-07,other types of electricity generation,0.0
+2020-07,solar,0.0
+2020-07,tidal power turbine,0.0
+2020-07,wind power turbine,37839.0
+2020-08,combustible fuels,262874.0
+2020-08,hydraulic turbine,45793.0
+2020-08,nuclear steam turbine,484754.0
+2020-08,other types of electricity generation,0.0
+2020-08,solar,0.0
+2020-08,tidal power turbine,0.0
+2020-08,wind power turbine,60179.0
+2020-09,combustible fuels,371087.0
+2020-09,hydraulic turbine,42900.0
+2020-09,nuclear steam turbine,54804.0
+2020-09,other types of electricity generation,0.0
+2020-09,solar,0.0
+2020-09,tidal power turbine,0.0
+2020-09,wind power turbine,77429.0
+2020-10,combustible fuels,443434.0
+2020-10,hydraulic turbine,248102.0
+2020-10,nuclear steam turbine,0.0
+2020-10,other types of electricity generation,0.0
+2020-10,solar,0.0
+2020-10,tidal power turbine,0.0
+2020-10,wind power turbine,81945.0
+2020-11,combustible fuels,483352.0
+2020-11,hydraulic turbine,257418.0
+2020-11,nuclear steam turbine,376564.0
+2020-11,other types of electricity generation,0.0
+2020-11,solar,0.0
+2020-11,tidal power turbine,0.0
+2020-11,wind power turbine,96370.0
+2020-12,combustible fuels,425590.0
+2020-12,hydraulic turbine,389463.0
+2020-12,nuclear steam turbine,489635.0
+2020-12,other types of electricity generation,0.0
+2020-12,solar,0.0
+2020-12,tidal power turbine,0.0
+2020-12,wind power turbine,85128.0
+2021-01,combustible fuels,530449.0
+2021-01,hydraulic turbine,245830.0
+2021-01,nuclear steam turbine,244926.0
+2021-01,other types of electricity generation,0.0
+2021-01,solar,0.0
+2021-01,tidal power turbine,0.0
+2021-01,wind power turbine,47128.0
+2021-02,combustible fuels,753044.0
+2021-02,hydraulic turbine,124093.0
+2021-02,nuclear steam turbine,14242.0
+2021-02,other types of electricity generation,0.0
+2021-02,solar,0.0
+2021-02,tidal power turbine,0.0
+2021-02,wind power turbine,74899.0
+2021-03,combustible fuels,384362.0
+2021-03,hydraulic turbine,212720.0
+2021-03,nuclear steam turbine,489303.0
+2021-03,other types of electricity generation,0.0
+2021-03,solar,0.0
+2021-03,tidal power turbine,0.0
+2021-03,wind power turbine,110614.0
+2021-04,combustible fuels,317240.0
+2021-04,hydraulic turbine,498891.0
+2021-04,nuclear steam turbine,259405.0
+2021-04,other types of electricity generation,0.0
+2021-04,solar,0.0
+2021-04,tidal power turbine,0.0
+2021-04,wind power turbine,74705.0
+2021-05,combustible fuels,112127.0
+2021-05,hydraulic turbine,343735.0
+2021-05,nuclear steam turbine,492195.0
+2021-05,other types of electricity generation,0.0
+2021-05,solar,0.0
+2021-05,tidal power turbine,0.0
+2021-05,wind power turbine,65028.0
+2021-06,combustible fuels,229849.0
+2021-06,hydraulic turbine,163213.0
+2021-06,nuclear steam turbine,473860.0
+2021-06,other types of electricity generation,0.0
+2021-06,solar,0.0
+2021-06,tidal power turbine,0.0
+2021-06,wind power turbine,53984.0
+2021-07,combustible fuels,245577.0
+2021-07,hydraulic turbine,123047.0
+2021-07,nuclear steam turbine,476437.0
+2021-07,other types of electricity generation,0.0
+2021-07,solar,0.0
+2021-07,tidal power turbine,0.0
+2021-07,wind power turbine,42502.0
+2021-08,combustible fuels,246846.0
+2021-08,hydraulic turbine,66982.0
+2021-08,nuclear steam turbine,481464.0
+2021-08,other types of electricity generation,0.0
+2021-08,solar,0.0
+2021-08,tidal power turbine,0.0
+2021-08,wind power turbine,40254.0
+2021-09,combustible fuels,337925.0
+2021-09,hydraulic turbine,169251.0
+2021-09,nuclear steam turbine,464152.0
+2021-09,other types of electricity generation,0.0
+2021-09,solar,0.0
+2021-09,tidal power turbine,0.0
+2021-09,wind power turbine,63375.0
+2021-10,combustible fuels,403076.0
+2021-10,hydraulic turbine,188286.0
+2021-10,nuclear steam turbine,477623.0
+2021-10,other types of electricity generation,0.0
+2021-10,solar,0.0
+2021-10,tidal power turbine,0.0
+2021-10,wind power turbine,32556.0
+2021-11,combustible fuels,448967.0
+2021-11,hydraulic turbine,260120.0
+2021-11,nuclear steam turbine,150505.0
+2021-11,other types of electricity generation,0.0
+2021-11,solar,0.0
+2021-11,tidal power turbine,0.0
+2021-11,wind power turbine,47966.0
+2021-12,combustible fuels,592461.0
+2021-12,hydraulic turbine,226090.0
+2021-12,nuclear steam turbine,394403.0
+2021-12,other types of electricity generation,0.0
+2021-12,solar,0.0
+2021-12,tidal power turbine,0.0
+2021-12,wind power turbine,55613.0
+2022-01,combustible fuels,960218.0
+2022-01,hydraulic turbine,142844.0
+2022-01,nuclear steam turbine,460227.0
+2022-01,other types of electricity generation,0.0
+2022-01,solar,0.0
+2022-01,tidal power turbine,0.0
+2022-01,wind power turbine,53762.0
+2022-02,combustible fuels,581706.0
+2022-02,hydraulic turbine,133291.0
+2022-02,nuclear steam turbine,444235.0
+2022-02,other types of electricity generation,0.0
+2022-02,solar,0.0
+2022-02,tidal power turbine,0.0
+2022-02,wind power turbine,53552.0
+2022-03,combustible fuels,467029.0
+2022-03,hydraulic turbine,232365.0
+2022-03,nuclear steam turbine,493629.0
+2022-03,other types of electricity generation,0.0
+2022-03,solar,0.0
+2022-03,tidal power turbine,0.0
+2022-03,wind power turbine,57767.0
+2022-04,combustible fuels,425993.0
+2022-04,hydraulic turbine,509667.0
+2022-04,nuclear steam turbine,130637.0
+2022-04,other types of electricity generation,0.0
+2022-04,solar,0.0
+2022-04,tidal power turbine,0.0
+2022-04,wind power turbine,56808.0
+2022-05,combustible fuels,224264.0
+2022-05,hydraulic turbine,499039.0
+2022-05,nuclear steam turbine,0.0
+2022-05,other types of electricity generation,0.0
+2022-05,solar,0.0
+2022-05,tidal power turbine,0.0
+2022-05,wind power turbine,44604.0
+2022-06,combustible fuels,103202.0
+2022-06,hydraulic turbine,396665.0
+2022-06,nuclear steam turbine,0.0
+2022-06,other types of electricity generation,0.0
+2022-06,solar,0.0
+2022-06,tidal power turbine,0.0
+2022-06,wind power turbine,29828.0
+2022-07,combustible fuels,301264.0
+2022-07,hydraulic turbine,207733.0
+2022-07,nuclear steam turbine,41852.0
+2022-07,other types of electricity generation,0.0
+2022-07,solar,0.0
+2022-07,tidal power turbine,0.0
+2022-07,wind power turbine,45300.0
+2022-08,combustible fuels,451476.0
+2022-08,hydraulic turbine,170525.0
+2022-08,nuclear steam turbine,349362.0
+2022-08,other types of electricity generation,0.0
+2022-08,solar,0.0
+2022-08,tidal power turbine,0.0
+2022-08,wind power turbine,29049.0
+2022-09,combustible fuels,259454.0
+2022-09,hydraulic turbine,93490.0
+2022-09,nuclear steam turbine,457285.0
+2022-09,other types of electricity generation,0.0
+2022-09,solar,0.0
+2022-09,tidal power turbine,0.0
+2022-09,wind power turbine,39532.0
+2022-10,combustible fuels,240930.0
+2022-10,hydraulic turbine,224401.0
+2022-10,nuclear steam turbine,484589.0
+2022-10,other types of electricity generation,0.0
+2022-10,solar,0.0
+2022-10,tidal power turbine,0.0
+2022-10,wind power turbine,45917.0
+2022-11,combustible fuels,280954.0
+2022-11,hydraulic turbine,294688.0
+2022-11,nuclear steam turbine,475719.0
+2022-11,other types of electricity generation,0.0
+2022-11,solar,0.0
+2022-11,tidal power turbine,0.0
+2022-11,wind power turbine,53799.0
