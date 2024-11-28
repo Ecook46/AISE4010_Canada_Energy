@@ -1,0 +1,1705 @@
+province,generation_type,month,megawatt_hours
+Alberta,combustible fuels,2029-01-01,5511736.510827988
+Alberta,combustible fuels,2029-02-01,5023461.928705573
+Alberta,combustible fuels,2029-03-01,4635397.438582554
+Alberta,combustible fuels,2029-04-01,4448749.224618942
+Alberta,combustible fuels,2029-05-01,4779870.948990136
+Alberta,combustible fuels,2029-06-01,5072495.712055385
+Alberta,combustible fuels,2029-07-01,4284121.527866878
+Alberta,combustible fuels,2029-08-01,4539479.184485659
+Alberta,combustible fuels,2029-09-01,4273086.992453635
+Alberta,combustible fuels,2029-10-01,4302397.671919584
+Alberta,combustible fuels,2029-11-01,4408034.966777064
+Alberta,combustible fuels,2029-12-01,4569025.645096779
+Alberta,combustible fuels,2030-01-01,5071878.644185334
+Alberta,combustible fuels,2030-02-01,4590561.313761547
+Alberta,combustible fuels,2030-03-01,5119905.866070628
+Alberta,combustible fuels,2030-04-01,4492866.294579729
+Alberta,combustible fuels,2030-05-01,4318673.40260075
+Alberta,combustible fuels,2030-06-01,4739852.034809589
+Alberta,combustible fuels,2030-07-01,4891474.704579771
+Alberta,combustible fuels,2030-08-01,5629124.468102753
+Alberta,combustible fuels,2030-09-01,5551949.550745368
+Alberta,combustible fuels,2030-10-01,4127052.1770931515
+Alberta,combustible fuels,2030-11-01,4019209.5223974735
+Alberta,combustible fuels,2030-12-01,4999638.406607151
+Alberta,hydraulic turbine,2029-01-01,232603.3827381134
+Alberta,hydraulic turbine,2029-02-01,272244.94213724136
+Alberta,hydraulic turbine,2029-03-01,289509.4810436964
+Alberta,hydraulic turbine,2029-04-01,296329.18852210045
+Alberta,hydraulic turbine,2029-05-01,246922.17719817162
+Alberta,hydraulic turbine,2029-06-01,323547.5002011061
+Alberta,hydraulic turbine,2029-07-01,379990.0233831406
+Alberta,hydraulic turbine,2029-08-01,445711.1922407151
+Alberta,hydraulic turbine,2029-09-01,449921.3257915974
+Alberta,hydraulic turbine,2029-10-01,456737.5349850655
+Alberta,hydraulic turbine,2029-11-01,295908.64020848274
+Alberta,hydraulic turbine,2029-12-01,220493.48289352655
+Alberta,hydraulic turbine,2030-01-01,262020.42934280634
+Alberta,hydraulic turbine,2030-02-01,200942.7833597064
+Alberta,hydraulic turbine,2030-03-01,281007.58031082153
+Alberta,hydraulic turbine,2030-04-01,388659.17146289354
+Alberta,hydraulic turbine,2030-05-01,340265.19642341137
+Alberta,hydraulic turbine,2030-06-01,310928.89316773415
+Alberta,hydraulic turbine,2030-07-01,360393.25960636145
+Alberta,hydraulic turbine,2030-08-01,395097.7125179768
+Alberta,hydraulic turbine,2030-09-01,330753.04546535015
+Alberta,hydraulic turbine,2030-10-01,375618.4869254828
+Alberta,hydraulic turbine,2030-11-01,325189.95545244217
+Alberta,hydraulic turbine,2030-12-01,310063.2666503191
+Alberta,other types of electricity generation,2029-01-01,3829.884808510542
+Alberta,other types of electricity generation,2029-02-01,-1393.8895659521222
+Alberta,other types of electricity generation,2029-03-01,-7991.205435246229
+Alberta,other types of electricity generation,2029-04-01,-12861.200049519539
+Alberta,other types of electricity generation,2029-05-01,-16809.3578889966
+Alberta,other types of electricity generation,2029-06-01,-12160.72402894497
+Alberta,other types of electricity generation,2029-07-01,-11308.156326413155
+Alberta,other types of electricity generation,2029-08-01,-10533.765610307455
+Alberta,other types of electricity generation,2029-09-01,-9871.974866837263
+Alberta,other types of electricity generation,2029-10-01,-13197.239115834236
+Alberta,other types of electricity generation,2029-11-01,-14491.086266934872
+Alberta,other types of electricity generation,2029-12-01,-8721.121773123741
+Alberta,other types of electricity generation,2030-01-01,1727.637113071978
+Alberta,other types of electricity generation,2030-02-01,-1085.4545049369335
+Alberta,other types of electricity generation,2030-03-01,354.2450722306967
+Alberta,other types of electricity generation,2030-04-01,323.4342235373333
+Alberta,other types of electricity generation,2030-05-01,-3650.4256073385477
+Alberta,other types of electricity generation,2030-06-01,-8606.547117233276
+Alberta,other types of electricity generation,2030-07-01,-9970.69664299488
+Alberta,other types of electricity generation,2030-08-01,-1899.1617253050208
+Alberta,other types of electricity generation,2030-09-01,-1298.3274296857417
+Alberta,other types of electricity generation,2030-10-01,-11401.154845952988
+Alberta,other types of electricity generation,2030-11-01,-17773.381434381008
+Alberta,other types of electricity generation,2030-12-01,-12843.545898795128
+Alberta,solar,2029-01-01,13693.212850905955
+Alberta,solar,2029-02-01,44459.094163656235
+Alberta,solar,2029-03-01,82641.71227312088
+Alberta,solar,2029-04-01,88967.96489846706
+Alberta,solar,2029-05-01,101296.17570602894
+Alberta,solar,2029-06-01,111025.74752473831
+Alberta,solar,2029-07-01,89957.57991737127
+Alberta,solar,2029-08-01,63341.322746127844
+Alberta,solar,2029-09-01,73937.09798765182
+Alberta,solar,2029-10-01,71311.19922804832
+Alberta,solar,2029-11-01,54698.33425185084
+Alberta,solar,2029-12-01,64625.428629785776
+Alberta,solar,2030-01-01,57474.97002494335
+Alberta,solar,2030-02-01,45552.045212984085
+Alberta,solar,2030-03-01,50560.318284094334
+Alberta,solar,2030-04-01,62136.419543772936
+Alberta,solar,2030-05-01,85361.19033002853
+Alberta,solar,2030-06-01,75601.35540640354
+Alberta,solar,2030-07-01,65372.74597233534
+Alberta,solar,2030-08-01,51814.989851772785
+Alberta,solar,2030-09-01,57913.72760540247
+Alberta,solar,2030-10-01,59931.73019492626
+Alberta,solar,2030-11-01,53828.33152925968
+Alberta,solar,2030-12-01,69484.48276615143
+Alberta,wind power turbine,2029-01-01,551689.4276759624
+Alberta,wind power turbine,2029-02-01,648934.3870629072
+Alberta,wind power turbine,2029-03-01,639589.8843061924
+Alberta,wind power turbine,2029-04-01,694742.778820157
+Alberta,wind power turbine,2029-05-01,499414.94778561586
+Alberta,wind power turbine,2029-06-01,489817.65441358084
+Alberta,wind power turbine,2029-07-01,373905.70566773415
+Alberta,wind power turbine,2029-08-01,271279.03843569756
+Alberta,wind power turbine,2029-09-01,261423.19637715816
+Alberta,wind power turbine,2029-10-01,315817.7754968405
+Alberta,wind power turbine,2029-11-01,264049.5542572737
+Alberta,wind power turbine,2029-12-01,326045.0131467581
+Alberta,wind power turbine,2030-01-01,405927.63791143894
+Alberta,wind power turbine,2030-02-01,329346.8435832858
+Alberta,wind power turbine,2030-03-01,375652.6028519869
+Alberta,wind power turbine,2030-04-01,327124.0022994876
+Alberta,wind power turbine,2030-05-01,395168.456097126
+Alberta,wind power turbine,2030-06-01,447840.75096428394
+Alberta,wind power turbine,2030-07-01,251230.11199259758
+Alberta,wind power turbine,2030-08-01,69692.58624218404
+Alberta,wind power turbine,2030-09-01,86726.18157246709
+Alberta,wind power turbine,2030-10-01,271349.01029092073
+Alberta,wind power turbine,2030-11-01,397401.9667481184
+Alberta,wind power turbine,2030-12-01,247303.36147755384
+British Columbia,combustible fuels,2029-01-01,389936.1566412151
+British Columbia,combustible fuels,2029-02-01,127426.5975971222
+British Columbia,combustible fuels,2029-03-01,256620.20306152105
+British Columbia,combustible fuels,2029-04-01,267931.87320156395
+British Columbia,combustible fuels,2029-05-01,431010.9970650673
+British Columbia,combustible fuels,2029-06-01,403021.1053442359
+British Columbia,combustible fuels,2029-07-01,311378.33830675855
+British Columbia,combustible fuels,2029-08-01,375290.2266969681
+British Columbia,combustible fuels,2029-09-01,459670.8819158674
+British Columbia,combustible fuels,2029-10-01,331656.6540554762
+British Columbia,combustible fuels,2029-11-01,271921.5630723238
+British Columbia,combustible fuels,2029-12-01,350357.59359000623
+British Columbia,combustible fuels,2030-01-01,326444.8755066693
+British Columbia,combustible fuels,2030-02-01,482509.0981876851
+British Columbia,combustible fuels,2030-03-01,416803.5332304239
+British Columbia,combustible fuels,2030-04-01,400162.86538371444
+British Columbia,combustible fuels,2030-05-01,388057.25799530745
+British Columbia,combustible fuels,2030-06-01,234215.94763681293
+British Columbia,combustible fuels,2030-07-01,192947.74977761507
+British Columbia,combustible fuels,2030-08-01,379926.99806672335
+British Columbia,combustible fuels,2030-09-01,458425.40078204876
+British Columbia,combustible fuels,2030-10-01,459631.6650549174
+British Columbia,combustible fuels,2030-11-01,336553.51870793104
+British Columbia,combustible fuels,2030-12-01,420579.18031954765
+British Columbia,hydraulic turbine,2029-01-01,5111639.122794033
+British Columbia,hydraulic turbine,2029-02-01,6246152.136636377
+British Columbia,hydraulic turbine,2029-03-01,5747512.24279666
+British Columbia,hydraulic turbine,2029-04-01,5250869.350719214
+British Columbia,hydraulic turbine,2029-05-01,5212990.872807146
+British Columbia,hydraulic turbine,2029-06-01,5276505.857738734
+British Columbia,hydraulic turbine,2029-07-01,6921730.1606313
+British Columbia,hydraulic turbine,2029-08-01,7234916.0513278255
+British Columbia,hydraulic turbine,2029-09-01,7267597.309186698
+British Columbia,hydraulic turbine,2029-10-01,6092514.843280912
+British Columbia,hydraulic turbine,2029-11-01,6588629.869419456
+British Columbia,hydraulic turbine,2029-12-01,6026604.10179031
+British Columbia,hydraulic turbine,2030-01-01,6304438.616891862
+British Columbia,hydraulic turbine,2030-02-01,6451681.432641269
+British Columbia,hydraulic turbine,2030-03-01,6565085.9560655365
+British Columbia,hydraulic turbine,2030-04-01,8099379.951940776
+British Columbia,hydraulic turbine,2030-05-01,6959485.73466766
+British Columbia,hydraulic turbine,2030-06-01,6886811.555653215
+British Columbia,hydraulic turbine,2030-07-01,5575516.08989823
+British Columbia,hydraulic turbine,2030-08-01,6776882.853150249
+British Columbia,hydraulic turbine,2030-09-01,6781147.741782666
+British Columbia,hydraulic turbine,2030-10-01,4822091.868337453
+British Columbia,hydraulic turbine,2030-11-01,4019879.7118608654
+British Columbia,hydraulic turbine,2030-12-01,4144148.255098462
+British Columbia,other types of electricity generation,2029-01-01,0.45059967041015625
+British Columbia,other types of electricity generation,2029-02-01,0.1351461410522461
+British Columbia,other types of electricity generation,2029-03-01,0.19645392894744873
+British Columbia,other types of electricity generation,2029-04-01,0.24286337196826935
+British Columbia,other types of electricity generation,2029-05-01,0.23994840681552887
+British Columbia,other types of electricity generation,2029-06-01,0.305012971162796
+British Columbia,other types of electricity generation,2029-07-01,0.02054377645254135
+British Columbia,other types of electricity generation,2029-08-01,-0.058031756430864334
+British Columbia,other types of electricity generation,2029-09-01,-0.09099288284778595
+British Columbia,other types of electricity generation,2029-10-01,-0.18010345101356506
+British Columbia,other types of electricity generation,2029-11-01,-0.03784789890050888
+British Columbia,other types of electricity generation,2029-12-01,-0.12867136299610138
+British Columbia,other types of electricity generation,2030-01-01,0.2167215198278427
+British Columbia,other types of electricity generation,2030-02-01,-0.0572943352162838
+British Columbia,other types of electricity generation,2030-03-01,0.16425950825214386
+British Columbia,other types of electricity generation,2030-04-01,-0.12397296726703644
+British Columbia,other types of electricity generation,2030-05-01,-0.059632088989019394
+British Columbia,other types of electricity generation,2030-06-01,-0.12239407747983932
+British Columbia,other types of electricity generation,2030-07-01,-0.02573983371257782
+British Columbia,other types of electricity generation,2030-08-01,-0.15604130923748016
+British Columbia,other types of electricity generation,2030-09-01,0.0004590378957800567
+British Columbia,other types of electricity generation,2030-10-01,-0.008595121093094349
+British Columbia,other types of electricity generation,2030-11-01,0.022329820320010185
+British Columbia,other types of electricity generation,2030-12-01,-0.12541036307811737
+British Columbia,solar,2029-01-01,115.64001202583313
+British Columbia,solar,2029-02-01,421.24625277519226
+British Columbia,solar,2029-03-01,582.7048189640045
+British Columbia,solar,2029-04-01,241.40851318836212
+British Columbia,solar,2029-05-01,308.41581082344055
+British Columbia,solar,2029-06-01,327.95755314826965
+British Columbia,solar,2029-07-01,309.44252920150757
+British Columbia,solar,2029-08-01,348.23109197616577
+British Columbia,solar,2029-09-01,153.3462165594101
+British Columbia,solar,2029-10-01,332.57845187187195
+British Columbia,solar,2029-11-01,775.5661206245422
+British Columbia,solar,2029-12-01,793.883749961853
+British Columbia,solar,2030-01-01,654.935441493988
+British Columbia,solar,2030-02-01,564.7865869998932
+British Columbia,solar,2030-03-01,875.4127278327942
+British Columbia,solar,2030-04-01,1066.868866443634
+British Columbia,solar,2030-05-01,819.1812210083008
+British Columbia,solar,2030-06-01,523.4768958091736
+British Columbia,solar,2030-07-01,459.2082278728485
+British Columbia,solar,2030-08-01,261.3779318332672
+British Columbia,solar,2030-09-01,216.9453160762787
+British Columbia,solar,2030-10-01,100.4298267364502
+British Columbia,solar,2030-11-01,144.3952458500862
+British Columbia,solar,2030-12-01,611.6659526824951
+British Columbia,tidal power turbine,2029-01-01,-0.16045649349689484
+British Columbia,tidal power turbine,2029-02-01,-0.16041935980319977
+British Columbia,tidal power turbine,2029-03-01,-0.49028530716896057
+British Columbia,tidal power turbine,2029-04-01,-0.4265592694282532
+British Columbia,tidal power turbine,2029-05-01,-0.25769418478012085
+British Columbia,tidal power turbine,2029-06-01,-0.1758696585893631
+British Columbia,tidal power turbine,2029-07-01,-0.3928503692150116
+British Columbia,tidal power turbine,2029-08-01,-0.13007494807243347
+British Columbia,tidal power turbine,2029-09-01,-0.3676847815513611
+British Columbia,tidal power turbine,2029-10-01,-0.3302169144153595
+British Columbia,tidal power turbine,2029-11-01,-0.2953784167766571
+British Columbia,tidal power turbine,2029-12-01,-0.27054426074028015
+British Columbia,tidal power turbine,2030-01-01,-0.37764108180999756
+British Columbia,tidal power turbine,2030-02-01,-0.2039356231689453
+British Columbia,tidal power turbine,2030-03-01,-0.5315146446228027
+British Columbia,tidal power turbine,2030-04-01,-0.12536309659481049
+British Columbia,tidal power turbine,2030-05-01,-0.12272710353136063
+British Columbia,tidal power turbine,2030-06-01,-0.05252240225672722
+British Columbia,tidal power turbine,2030-07-01,-0.2513280510902405
+British Columbia,tidal power turbine,2030-08-01,-0.3353478014469147
+British Columbia,tidal power turbine,2030-09-01,-0.22799955308437347
+British Columbia,tidal power turbine,2030-10-01,-0.06382090598344803
+British Columbia,tidal power turbine,2030-11-01,-0.2589584290981293
+British Columbia,tidal power turbine,2030-12-01,-0.04369192197918892
+British Columbia,wind power turbine,2029-01-01,62330.72148683667
+British Columbia,wind power turbine,2029-02-01,4259.186867156997
+British Columbia,wind power turbine,2029-03-01,76372.53507843614
+British Columbia,wind power turbine,2029-04-01,97398.05298256874
+British Columbia,wind power turbine,2029-05-01,132957.98597204685
+British Columbia,wind power turbine,2029-06-01,187932.53831464052
+British Columbia,wind power turbine,2029-07-01,190833.85816431046
+British Columbia,wind power turbine,2029-08-01,214322.81225419044
+British Columbia,wind power turbine,2029-09-01,243409.59212946892
+British Columbia,wind power turbine,2029-10-01,314512.8960931301
+British Columbia,wind power turbine,2029-11-01,144283.1777741909
+British Columbia,wind power turbine,2029-12-01,65607.20821362734
+British Columbia,wind power turbine,2030-01-01,54675.00324988365
+British Columbia,wind power turbine,2030-02-01,-6571.672002695501
+British Columbia,wind power turbine,2030-03-01,119992.53414422274
+British Columbia,wind power turbine,2030-04-01,101551.57626521587
+British Columbia,wind power turbine,2030-05-01,85903.1174466908
+British Columbia,wind power turbine,2030-06-01,30564.621023103595
+British Columbia,wind power turbine,2030-07-01,89884.27956539392
+British Columbia,wind power turbine,2030-08-01,121927.07455611229
+British Columbia,wind power turbine,2030-09-01,108336.67741954327
+British Columbia,wind power turbine,2030-10-01,89783.17004150152
+British Columbia,wind power turbine,2030-11-01,-72176.83393871784
+British Columbia,wind power turbine,2030-12-01,-17177.056394524872
+Manitoba,combustible fuels,2029-01-01,-7688.181286863983
+Manitoba,combustible fuels,2029-02-01,-10873.041810467837
+Manitoba,combustible fuels,2029-03-01,-15845.022952869533
+Manitoba,combustible fuels,2029-04-01,-14440.564110681413
+Manitoba,combustible fuels,2029-05-01,-17127.62802939117
+Manitoba,combustible fuels,2029-06-01,-239.09227561205617
+Manitoba,combustible fuels,2029-07-01,14863.93668192625
+Manitoba,combustible fuels,2029-08-01,7729.979190468787
+Manitoba,combustible fuels,2029-09-01,25998.578294605013
+Manitoba,combustible fuels,2029-10-01,29303.173534393307
+Manitoba,combustible fuels,2029-11-01,17199.421894326806
+Manitoba,combustible fuels,2029-12-01,18956.0413248688
+Manitoba,combustible fuels,2030-01-01,17070.730724275112
+Manitoba,combustible fuels,2030-02-01,16520.12512986362
+Manitoba,combustible fuels,2030-03-01,24137.675380975004
+Manitoba,combustible fuels,2030-04-01,22189.343819051977
+Manitoba,combustible fuels,2030-05-01,24779.938431113955
+Manitoba,combustible fuels,2030-06-01,23570.508796393868
+Manitoba,combustible fuels,2030-07-01,14574.181491062045
+Manitoba,combustible fuels,2030-08-01,13471.778663560748
+Manitoba,combustible fuels,2030-09-01,7395.191439688205
+Manitoba,combustible fuels,2030-10-01,4007.7204011380672
+Manitoba,combustible fuels,2030-11-01,-822.5527188852428
+Manitoba,combustible fuels,2030-12-01,-211.1056075692176
+Manitoba,hydraulic turbine,2029-01-01,2398484.7857496436
+Manitoba,hydraulic turbine,2029-02-01,2133141.3707534517
+Manitoba,hydraulic turbine,2029-03-01,2117768.463759973
+Manitoba,hydraulic turbine,2029-04-01,2168723.1343858982
+Manitoba,hydraulic turbine,2029-05-01,1917179.5656860173
+Manitoba,hydraulic turbine,2029-06-01,1921319.46455355
+Manitoba,hydraulic turbine,2029-07-01,1610292.1578039713
+Manitoba,hydraulic turbine,2029-08-01,1484133.5503640324
+Manitoba,hydraulic turbine,2029-09-01,920860.7781170608
+Manitoba,hydraulic turbine,2029-10-01,712463.8904744686
+Manitoba,hydraulic turbine,2029-11-01,1121248.389713794
+Manitoba,hydraulic turbine,2029-12-01,1461465.8502584249
+Manitoba,hydraulic turbine,2030-01-01,1600461.4149019234
+Manitoba,hydraulic turbine,2030-02-01,2206084.0748454924
+Manitoba,hydraulic turbine,2030-03-01,2973360.8598788376
+Manitoba,hydraulic turbine,2030-04-01,2959637.4321388
+Manitoba,hydraulic turbine,2030-05-01,2877917.262105822
+Manitoba,hydraulic turbine,2030-06-01,2998768.379198789
+Manitoba,hydraulic turbine,2030-07-01,3185341.1664621825
+Manitoba,hydraulic turbine,2030-08-01,3598847.9656701083
+Manitoba,hydraulic turbine,2030-09-01,3953528.1270681615
+Manitoba,hydraulic turbine,2030-10-01,3573474.437323987
+Manitoba,hydraulic turbine,2030-11-01,3206446.13765943
+Manitoba,hydraulic turbine,2030-12-01,2769581.9150243993
+Manitoba,other types of electricity generation,2029-01-01,-0.09693002700805664
+Manitoba,other types of electricity generation,2029-02-01,-0.04258488491177559
+Manitoba,other types of electricity generation,2029-03-01,-0.05046776682138443
+Manitoba,other types of electricity generation,2029-04-01,0.008906249888241291
+Manitoba,other types of electricity generation,2029-05-01,0.05476509779691696
+Manitoba,other types of electricity generation,2029-06-01,-0.01881777122616768
+Manitoba,other types of electricity generation,2029-07-01,-0.05856412649154663
+Manitoba,other types of electricity generation,2029-08-01,-0.22043830156326294
+Manitoba,other types of electricity generation,2029-09-01,-0.2940758764743805
+Manitoba,other types of electricity generation,2029-10-01,-0.39845010638237
+Manitoba,other types of electricity generation,2029-11-01,-0.2383188009262085
+Manitoba,other types of electricity generation,2029-12-01,0.019986260682344437
+Manitoba,other types of electricity generation,2030-01-01,0.2796594798564911
+Manitoba,other types of electricity generation,2030-02-01,0.11976335942745209
+Manitoba,other types of electricity generation,2030-03-01,0.15068002045154572
+Manitoba,other types of electricity generation,2030-04-01,0.16722653806209564
+Manitoba,other types of electricity generation,2030-05-01,-0.06813088059425354
+Manitoba,other types of electricity generation,2030-06-01,-0.0799412652850151
+Manitoba,other types of electricity generation,2030-07-01,-0.10926848649978638
+Manitoba,other types of electricity generation,2030-08-01,-0.1310213804244995
+Manitoba,other types of electricity generation,2030-09-01,-0.16868318617343903
+Manitoba,other types of electricity generation,2030-10-01,-0.14456066489219666
+Manitoba,other types of electricity generation,2030-11-01,0.015037898905575275
+Manitoba,other types of electricity generation,2030-12-01,0.040387317538261414
+Manitoba,solar,2029-01-01,48.85195907950401
+Manitoba,solar,2029-02-01,68.27993273735046
+Manitoba,solar,2029-03-01,138.57110249996185
+Manitoba,solar,2029-04-01,176.47496914863586
+Manitoba,solar,2029-05-01,193.53419733047485
+Manitoba,solar,2029-06-01,280.9095081090927
+Manitoba,solar,2029-07-01,315.53486227989197
+Manitoba,solar,2029-08-01,313.4620443582535
+Manitoba,solar,2029-09-01,348.87516379356384
+Manitoba,solar,2029-10-01,372.20458936691284
+Manitoba,solar,2029-11-01,241.05010771751404
+Manitoba,solar,2029-12-01,160.49989265203476
+Manitoba,solar,2030-01-01,151.94417989253998
+Manitoba,solar,2030-02-01,165.0928871035576
+Manitoba,solar,2030-03-01,81.56502121686935
+Manitoba,solar,2030-04-01,20.10092308372259
+Manitoba,solar,2030-05-01,86.32395514845848
+Manitoba,solar,2030-06-01,35.35541570186615
+Manitoba,solar,2030-07-01,-0.24637067248113453
+Manitoba,solar,2030-08-01,79.64709904789925
+Manitoba,solar,2030-09-01,132.8790664076805
+Manitoba,solar,2030-10-01,210.1660714149475
+Manitoba,solar,2030-11-01,168.4820740222931
+Manitoba,solar,2030-12-01,148.9753042459488
+Manitoba,wind power turbine,2029-01-01,80878.06285750866
+Manitoba,wind power turbine,2029-02-01,93664.18568587303
+Manitoba,wind power turbine,2029-03-01,114152.33885192871
+Manitoba,wind power turbine,2029-04-01,101477.27016377449
+Manitoba,wind power turbine,2029-05-01,92985.64212566614
+Manitoba,wind power turbine,2029-06-01,84094.83636957407
+Manitoba,wind power turbine,2029-07-01,62033.37015849352
+Manitoba,wind power turbine,2029-08-01,55751.830051481724
+Manitoba,wind power turbine,2029-09-01,65786.87902897596
+Manitoba,wind power turbine,2029-10-01,90326.5409476161
+Manitoba,wind power turbine,2029-11-01,85015.8527417779
+Manitoba,wind power turbine,2029-12-01,90947.72166895866
+Manitoba,wind power turbine,2030-01-01,122207.8632427454
+Manitoba,wind power turbine,2030-02-01,129529.97498488426
+Manitoba,wind power turbine,2030-03-01,105455.9798283577
+Manitoba,wind power turbine,2030-04-01,101106.20142120123
+Manitoba,wind power turbine,2030-05-01,114960.1429041624
+Manitoba,wind power turbine,2030-06-01,94466.08764284849
+Manitoba,wind power turbine,2030-07-01,75835.15343731642
+Manitoba,wind power turbine,2030-08-01,58589.481125772
+Manitoba,wind power turbine,2030-09-01,64605.38088744879
+Manitoba,wind power turbine,2030-10-01,71154.45632690191
+Manitoba,wind power turbine,2030-11-01,88753.14894479513
+Manitoba,wind power turbine,2030-12-01,98515.48427438736
+New Brunswick,combustible fuels,2029-01-01,535484.5016807318
+New Brunswick,combustible fuels,2029-02-01,553519.3747329712
+New Brunswick,combustible fuels,2029-03-01,347101.5290646851
+New Brunswick,combustible fuels,2029-04-01,414853.6363218725
+New Brunswick,combustible fuels,2029-05-01,135631.15379123762
+New Brunswick,combustible fuels,2029-06-01,136128.58397136256
+New Brunswick,combustible fuels,2029-07-01,58364.64914673939
+New Brunswick,combustible fuels,2029-08-01,263271.2447475195
+New Brunswick,combustible fuels,2029-09-01,403131.33279953897
+New Brunswick,combustible fuels,2029-10-01,322451.7109980583
+New Brunswick,combustible fuels,2029-11-01,355337.5591439903
+New Brunswick,combustible fuels,2029-12-01,367991.6810424477
+New Brunswick,combustible fuels,2030-01-01,594919.5878197551
+New Brunswick,combustible fuels,2030-02-01,472107.0598744154
+New Brunswick,combustible fuels,2030-03-01,382403.02880837023
+New Brunswick,combustible fuels,2030-04-01,387862.31904903054
+New Brunswick,combustible fuels,2030-05-01,223982.6795246452
+New Brunswick,combustible fuels,2030-06-01,259428.49962943792
+New Brunswick,combustible fuels,2030-07-01,135162.14135145023
+New Brunswick,combustible fuels,2030-08-01,381751.74821940064
+New Brunswick,combustible fuels,2030-09-01,359626.48289904
+New Brunswick,combustible fuels,2030-10-01,335419.2613207847
+New Brunswick,combustible fuels,2030-11-01,318158.2281447947
+New Brunswick,combustible fuels,2030-12-01,386571.55788999796
+New Brunswick,hydraulic turbine,2029-01-01,246099.7746965587
+New Brunswick,hydraulic turbine,2029-02-01,176062.8705624938
+New Brunswick,hydraulic turbine,2029-03-01,118256.78457969427
+New Brunswick,hydraulic turbine,2029-04-01,313054.42836248875
+New Brunswick,hydraulic turbine,2029-05-01,504265.2291877866
+New Brunswick,hydraulic turbine,2029-06-01,444800.9189684391
+New Brunswick,hydraulic turbine,2029-07-01,295300.13227668405
+New Brunswick,hydraulic turbine,2029-08-01,214451.98103445768
+New Brunswick,hydraulic turbine,2029-09-01,141247.22206670046
+New Brunswick,hydraulic turbine,2029-10-01,94184.78071699291
+New Brunswick,hydraulic turbine,2029-11-01,288148.4294024408
+New Brunswick,hydraulic turbine,2029-12-01,306160.016477108
+New Brunswick,hydraulic turbine,2030-01-01,280101.449465394
+New Brunswick,hydraulic turbine,2030-02-01,221826.18126294017
+New Brunswick,hydraulic turbine,2030-03-01,165726.74078667164
+New Brunswick,hydraulic turbine,2030-04-01,294600.6676848531
+New Brunswick,hydraulic turbine,2030-05-01,317949.55514627695
+New Brunswick,hydraulic turbine,2030-06-01,225118.8430376649
+New Brunswick,hydraulic turbine,2030-07-01,99741.6610032469
+New Brunswick,hydraulic turbine,2030-08-01,46676.42356014997
+New Brunswick,hydraulic turbine,2030-09-01,26915.57378669828
+New Brunswick,hydraulic turbine,2030-10-01,117455.97601178288
+New Brunswick,hydraulic turbine,2030-11-01,251819.03427031636
+New Brunswick,hydraulic turbine,2030-12-01,206292.6656009555
+New Brunswick,nuclear steam turbine,2029-01-01,442275.3729096651
+New Brunswick,nuclear steam turbine,2029-02-01,470277.35090625286
+New Brunswick,nuclear steam turbine,2029-03-01,617297.0185089111
+New Brunswick,nuclear steam turbine,2029-04-01,469145.7873669863
+New Brunswick,nuclear steam turbine,2029-05-01,106396.33222550154
+New Brunswick,nuclear steam turbine,2029-06-01,123202.67433857918
+New Brunswick,nuclear steam turbine,2029-07-01,217942.13135808706
+New Brunswick,nuclear steam turbine,2029-08-01,231547.52913057804
+New Brunswick,nuclear steam turbine,2029-09-01,347064.1941922903
+New Brunswick,nuclear steam turbine,2029-10-01,505433.3724346161
+New Brunswick,nuclear steam turbine,2029-11-01,508834.22218823433
+New Brunswick,nuclear steam turbine,2029-12-01,461249.4199129343
+New Brunswick,nuclear steam turbine,2030-01-01,428769.0098955631
+New Brunswick,nuclear steam turbine,2030-02-01,501678.7869286537
+New Brunswick,nuclear steam turbine,2030-03-01,454498.6517211199
+New Brunswick,nuclear steam turbine,2030-04-01,455555.06195890903
+New Brunswick,nuclear steam turbine,2030-05-01,507938.6601512432
+New Brunswick,nuclear steam turbine,2030-06-01,522335.5809044838
+New Brunswick,nuclear steam turbine,2030-07-01,455102.7208110094
+New Brunswick,nuclear steam turbine,2030-08-01,473002.8573396206
+New Brunswick,nuclear steam turbine,2030-09-01,403502.1323708296
+New Brunswick,nuclear steam turbine,2030-10-01,367224.20056414604
+New Brunswick,nuclear steam turbine,2030-11-01,303015.8018810749
+New Brunswick,nuclear steam turbine,2030-12-01,402152.54134583473
+New Brunswick,other types of electricity generation,2029-01-01,0.08334944397211075
+New Brunswick,other types of electricity generation,2029-02-01,0.05602594465017319
+New Brunswick,other types of electricity generation,2029-03-01,0.02374175749719143
+New Brunswick,other types of electricity generation,2029-04-01,-0.026320958510041237
+New Brunswick,other types of electricity generation,2029-05-01,-0.001221322687342763
+New Brunswick,other types of electricity generation,2029-06-01,0.03034145198762417
+New Brunswick,other types of electricity generation,2029-07-01,0.017282774671912193
+New Brunswick,other types of electricity generation,2029-08-01,0.003554201452061534
+New Brunswick,other types of electricity generation,2029-09-01,-0.04660462588071823
+New Brunswick,other types of electricity generation,2029-10-01,0.000644556013867259
+New Brunswick,other types of electricity generation,2029-11-01,0.0256874468177557
+New Brunswick,other types of electricity generation,2029-12-01,0.014146572910249233
+New Brunswick,other types of electricity generation,2030-01-01,-0.05391033738851547
+New Brunswick,other types of electricity generation,2030-02-01,-0.028096580877900124
+New Brunswick,other types of electricity generation,2030-03-01,0.026929756626486778
+New Brunswick,other types of electricity generation,2030-04-01,-0.07191251963376999
+New Brunswick,other types of electricity generation,2030-05-01,-0.04107416421175003
+New Brunswick,other types of electricity generation,2030-06-01,0.04313250631093979
+New Brunswick,other types of electricity generation,2030-07-01,-0.015085169114172459
+New Brunswick,other types of electricity generation,2030-08-01,0.00629293080419302
+New Brunswick,other types of electricity generation,2030-09-01,0.006595469079911709
+New Brunswick,other types of electricity generation,2030-10-01,0.03385550528764725
+New Brunswick,other types of electricity generation,2030-11-01,0.004526100121438503
+New Brunswick,other types of electricity generation,2030-12-01,-0.021434927359223366
+New Brunswick,solar,2029-01-01,-0.06370238214731216
+New Brunswick,solar,2029-02-01,0.026446333155035973
+New Brunswick,solar,2029-03-01,0.06423944979906082
+New Brunswick,solar,2029-04-01,-0.0029147574678063393
+New Brunswick,solar,2029-05-01,-0.012205076403915882
+New Brunswick,solar,2029-06-01,0.011949035339057446
+New Brunswick,solar,2029-07-01,0.0545896477997303
+New Brunswick,solar,2029-08-01,0.08844149857759476
+New Brunswick,solar,2029-09-01,0.04572267457842827
+New Brunswick,solar,2029-10-01,0.008718363009393215
+New Brunswick,solar,2029-11-01,0.0061706556007266045
+New Brunswick,solar,2029-12-01,-0.030254283919930458
+New Brunswick,solar,2030-01-01,0.037506699562072754
+New Brunswick,solar,2030-02-01,0.05580483004450798
+New Brunswick,solar,2030-03-01,0.09801610559225082
+New Brunswick,solar,2030-04-01,0.08719184994697571
+New Brunswick,solar,2030-05-01,0.022811276838183403
+New Brunswick,solar,2030-06-01,-0.03901376947760582
+New Brunswick,solar,2030-07-01,-0.03304264694452286
+New Brunswick,solar,2030-08-01,0.043052878230810165
+New Brunswick,solar,2030-09-01,0.060966573655605316
+New Brunswick,solar,2030-10-01,-0.00807057786732912
+New Brunswick,solar,2030-11-01,-0.02288099192082882
+New Brunswick,solar,2030-12-01,-0.017989082261919975
+New Brunswick,tidal power turbine,2029-01-01,-0.0656346008181572
+New Brunswick,tidal power turbine,2029-02-01,-0.06698215007781982
+New Brunswick,tidal power turbine,2029-03-01,-0.012809858657419682
+New Brunswick,tidal power turbine,2029-04-01,-0.07765365391969681
+New Brunswick,tidal power turbine,2029-05-01,0.006512324325740337
+New Brunswick,tidal power turbine,2029-06-01,-0.03250202164053917
+New Brunswick,tidal power turbine,2029-07-01,-0.0003459311556071043
+New Brunswick,tidal power turbine,2029-08-01,0.04462529718875885
+New Brunswick,tidal power turbine,2029-09-01,0.015859369188547134
+New Brunswick,tidal power turbine,2029-10-01,-0.018716026097536087
+New Brunswick,tidal power turbine,2029-11-01,-0.04362696409225464
+New Brunswick,tidal power turbine,2029-12-01,-0.03446471318602562
+New Brunswick,tidal power turbine,2030-01-01,0.05072079226374626
+New Brunswick,tidal power turbine,2030-02-01,0.028399653732776642
+New Brunswick,tidal power turbine,2030-03-01,0.03798071667551994
+New Brunswick,tidal power turbine,2030-04-01,-0.004230727441608906
+New Brunswick,tidal power turbine,2030-05-01,0.04087791219353676
+New Brunswick,tidal power turbine,2030-06-01,-0.0029837049078196287
+New Brunswick,tidal power turbine,2030-07-01,0.004630289040505886
+New Brunswick,tidal power turbine,2030-08-01,-0.01553549338132143
+New Brunswick,tidal power turbine,2030-09-01,-0.020135726779699326
+New Brunswick,tidal power turbine,2030-10-01,-0.12913623452186584
+New Brunswick,tidal power turbine,2030-11-01,-0.11973897367715836
+New Brunswick,tidal power turbine,2030-12-01,0.006170026026666164
+New Brunswick,wind power turbine,2029-01-01,64708.25799822807
+New Brunswick,wind power turbine,2029-02-01,56878.82336187363
+New Brunswick,wind power turbine,2029-03-01,93670.6350197792
+New Brunswick,wind power turbine,2029-04-01,89813.77222585678
+New Brunswick,wind power turbine,2029-05-01,66323.19369447231
+New Brunswick,wind power turbine,2029-06-01,50824.29300546646
+New Brunswick,wind power turbine,2029-07-01,40777.41148209572
+New Brunswick,wind power turbine,2029-08-01,38668.64868682623
+New Brunswick,wind power turbine,2029-09-01,37931.44359254837
+New Brunswick,wind power turbine,2029-10-01,59160.96841943264
+New Brunswick,wind power turbine,2029-11-01,55400.05512881279
+New Brunswick,wind power turbine,2029-12-01,65542.06861007214
+New Brunswick,wind power turbine,2030-01-01,67101.06178343296
+New Brunswick,wind power turbine,2030-02-01,84020.30917394161
+New Brunswick,wind power turbine,2030-03-01,72271.45633327961
+New Brunswick,wind power turbine,2030-04-01,70755.39088726044
+New Brunswick,wind power turbine,2030-05-01,80707.74701869488
+New Brunswick,wind power turbine,2030-06-01,61551.484396100044
+New Brunswick,wind power turbine,2030-07-01,44960.99575173855
+New Brunswick,wind power turbine,2030-08-01,56391.48058474064
+New Brunswick,wind power turbine,2030-09-01,63591.477776527405
+New Brunswick,wind power turbine,2030-10-01,55655.37983608246
+New Brunswick,wind power turbine,2030-11-01,53098.615340173244
+New Brunswick,wind power turbine,2030-12-01,57377.34805047512
+Newfoundland And Labrador,combustible fuels,2029-01-01,240136.46412658688
+Newfoundland And Labrador,combustible fuels,2029-02-01,276692.1224594116
+Newfoundland And Labrador,combustible fuels,2029-03-01,247552.14889526364
+Newfoundland And Labrador,combustible fuels,2029-04-01,244152.76326370236
+Newfoundland And Labrador,combustible fuels,2029-05-01,210912.41757202148
+Newfoundland And Labrador,combustible fuels,2029-06-01,161315.14721298218
+Newfoundland And Labrador,combustible fuels,2029-07-01,105524.48270034789
+Newfoundland And Labrador,combustible fuels,2029-08-01,65682.59771442413
+Newfoundland And Labrador,combustible fuels,2029-09-01,68109.03190135956
+Newfoundland And Labrador,combustible fuels,2029-10-01,76197.59287166594
+Newfoundland And Labrador,combustible fuels,2029-11-01,99293.48780441283
+Newfoundland And Labrador,combustible fuels,2029-12-01,181319.25792312622
+Newfoundland And Labrador,combustible fuels,2030-01-01,250718.24487304685
+Newfoundland And Labrador,combustible fuels,2030-02-01,269127.6508483887
+Newfoundland And Labrador,combustible fuels,2030-03-01,244636.604183197
+Newfoundland And Labrador,combustible fuels,2030-04-01,221058.18788146973
+Newfoundland And Labrador,combustible fuels,2030-05-01,175851.84865570068
+Newfoundland And Labrador,combustible fuels,2030-06-01,131201.14765167236
+Newfoundland And Labrador,combustible fuels,2030-07-01,85828.12813472746
+Newfoundland And Labrador,combustible fuels,2030-08-01,63395.61895561218
+Newfoundland And Labrador,combustible fuels,2030-09-01,50852.80562019348
+Newfoundland And Labrador,combustible fuels,2030-10-01,50392.33836746216
+Newfoundland And Labrador,combustible fuels,2030-11-01,92859.51423263548
+Newfoundland And Labrador,combustible fuels,2030-12-01,161713.07550811768
+Newfoundland And Labrador,hydraulic turbine,2029-01-01,4357633.227922261
+Newfoundland And Labrador,hydraulic turbine,2029-02-01,4721405.55588609
+Newfoundland And Labrador,hydraulic turbine,2029-03-01,4415350.005769908
+Newfoundland And Labrador,hydraulic turbine,2029-04-01,4423828.231942892
+Newfoundland And Labrador,hydraulic turbine,2029-05-01,3366464.2474620943
+Newfoundland And Labrador,hydraulic turbine,2029-06-01,2629477.2852678
+Newfoundland And Labrador,hydraulic turbine,2029-07-01,2125488.8860607073
+Newfoundland And Labrador,hydraulic turbine,2029-08-01,2027260.062374052
+Newfoundland And Labrador,hydraulic turbine,2029-09-01,2227043.259074427
+Newfoundland And Labrador,hydraulic turbine,2029-10-01,2359659.9184308797
+Newfoundland And Labrador,hydraulic turbine,2029-11-01,2421517.594512105
+Newfoundland And Labrador,hydraulic turbine,2029-12-01,3155963.7905158107
+Newfoundland And Labrador,hydraulic turbine,2030-01-01,4279669.305425048
+Newfoundland And Labrador,hydraulic turbine,2030-02-01,4669147.510520518
+Newfoundland And Labrador,hydraulic turbine,2030-03-01,4253940.713688791
+Newfoundland And Labrador,hydraulic turbine,2030-04-01,4457267.743624985
+Newfoundland And Labrador,hydraulic turbine,2030-05-01,3530638.870574892
+Newfoundland And Labrador,hydraulic turbine,2030-06-01,2849239.880366832
+Newfoundland And Labrador,hydraulic turbine,2030-07-01,2405238.149235919
+Newfoundland And Labrador,hydraulic turbine,2030-08-01,2539143.2386131138
+Newfoundland And Labrador,hydraulic turbine,2030-09-01,2570126.991791591
+Newfoundland And Labrador,hydraulic turbine,2030-10-01,2489828.197228208
+Newfoundland And Labrador,hydraulic turbine,2030-11-01,2693150.279854685
+Newfoundland And Labrador,hydraulic turbine,2030-12-01,3342792.876166642
+Newfoundland And Labrador,other types of electricity generation,2029-01-01,-0.02926095388829708
+Newfoundland And Labrador,other types of electricity generation,2029-02-01,0.08443528413772583
+Newfoundland And Labrador,other types of electricity generation,2029-03-01,0.004596905782818794
+Newfoundland And Labrador,other types of electricity generation,2029-04-01,0.04083990678191185
+Newfoundland And Labrador,other types of electricity generation,2029-05-01,0.014038322493433952
+Newfoundland And Labrador,other types of electricity generation,2029-06-01,-0.004817770794034004
+Newfoundland And Labrador,other types of electricity generation,2029-07-01,-0.0331912599503994
+Newfoundland And Labrador,other types of electricity generation,2029-08-01,-0.014286888763308525
+Newfoundland And Labrador,other types of electricity generation,2029-09-01,-0.0791609063744545
+Newfoundland And Labrador,other types of electricity generation,2029-10-01,-0.019969677552580833
+Newfoundland And Labrador,other types of electricity generation,2029-11-01,-0.023727187886834145
+Newfoundland And Labrador,other types of electricity generation,2029-12-01,-0.002202233299612999
+Newfoundland And Labrador,other types of electricity generation,2030-01-01,-0.003245128318667412
+Newfoundland And Labrador,other types of electricity generation,2030-02-01,-0.002853410318493843
+Newfoundland And Labrador,other types of electricity generation,2030-03-01,0.015788881108164787
+Newfoundland And Labrador,other types of electricity generation,2030-04-01,0.045336782932281494
+Newfoundland And Labrador,other types of electricity generation,2030-05-01,0.01594470627605915
+Newfoundland And Labrador,other types of electricity generation,2030-06-01,0.027082255110144615
+Newfoundland And Labrador,other types of electricity generation,2030-07-01,-0.02122492529451847
+Newfoundland And Labrador,other types of electricity generation,2030-08-01,-0.015089312568306923
+Newfoundland And Labrador,other types of electricity generation,2030-09-01,-0.044772710651159286
+Newfoundland And Labrador,other types of electricity generation,2030-10-01,-0.03628304973244667
+Newfoundland And Labrador,other types of electricity generation,2030-11-01,-0.04525560885667801
+Newfoundland And Labrador,other types of electricity generation,2030-12-01,0.03434818238019943
+Newfoundland And Labrador,solar,2029-01-01,0.028330666944384575
+Newfoundland And Labrador,solar,2029-02-01,0.004813728388398886
+Newfoundland And Labrador,solar,2029-03-01,0.03125486522912979
+Newfoundland And Labrador,solar,2029-04-01,0.030212590470910072
+Newfoundland And Labrador,solar,2029-05-01,-0.019562819972634315
+Newfoundland And Labrador,solar,2029-06-01,0.006978136952966452
+Newfoundland And Labrador,solar,2029-07-01,-0.0013262279098853469
+Newfoundland And Labrador,solar,2029-08-01,-0.00026000512298196554
+Newfoundland And Labrador,solar,2029-09-01,-0.013066234067082405
+Newfoundland And Labrador,solar,2029-10-01,-0.01719989813864231
+Newfoundland And Labrador,solar,2029-11-01,-0.003280031029134989
+Newfoundland And Labrador,solar,2029-12-01,0.015937304124236107
+Newfoundland And Labrador,solar,2030-01-01,0.028323421254754066
+Newfoundland And Labrador,solar,2030-02-01,-0.009495722129940987
+Newfoundland And Labrador,solar,2030-03-01,0.010340621694922447
+Newfoundland And Labrador,solar,2030-04-01,0.02971218340098858
+Newfoundland And Labrador,solar,2030-05-01,0.03548239916563034
+Newfoundland And Labrador,solar,2030-06-01,-0.0023219981230795383
+Newfoundland And Labrador,solar,2030-07-01,0.05625469610095024
+Newfoundland And Labrador,solar,2030-08-01,0.0065550110302865505
+Newfoundland And Labrador,solar,2030-09-01,0.028845185413956642
+Newfoundland And Labrador,solar,2030-10-01,0.0010265834862366319
+Newfoundland And Labrador,solar,2030-11-01,0.017147375270724297
+Newfoundland And Labrador,solar,2030-12-01,-0.001756498939357698
+Newfoundland And Labrador,tidal power turbine,2029-01-01,-0.01188843697309494
+Newfoundland And Labrador,tidal power turbine,2029-02-01,-0.07195321470499039
+Newfoundland And Labrador,tidal power turbine,2029-03-01,-0.027235062792897224
+Newfoundland And Labrador,tidal power turbine,2029-04-01,-0.040866173803806305
+Newfoundland And Labrador,tidal power turbine,2029-05-01,0.018923668190836906
+Newfoundland And Labrador,tidal power turbine,2029-06-01,-0.012279380112886429
+Newfoundland And Labrador,tidal power turbine,2029-07-01,0.0021641585044562817
+Newfoundland And Labrador,tidal power turbine,2029-08-01,-0.04715175926685333
+Newfoundland And Labrador,tidal power turbine,2029-09-01,0.016085907816886902
+Newfoundland And Labrador,tidal power turbine,2029-10-01,-0.031348664313554764
+Newfoundland And Labrador,tidal power turbine,2029-11-01,0.03072809986770153
+Newfoundland And Labrador,tidal power turbine,2029-12-01,0.0228046216070652
+Newfoundland And Labrador,tidal power turbine,2030-01-01,-0.06092590093612671
+Newfoundland And Labrador,tidal power turbine,2030-02-01,-0.017581352964043617
+Newfoundland And Labrador,tidal power turbine,2030-03-01,-0.023842861875891685
+Newfoundland And Labrador,tidal power turbine,2030-04-01,-0.01425093598663807
+Newfoundland And Labrador,tidal power turbine,2030-05-01,-0.04281849414110184
+Newfoundland And Labrador,tidal power turbine,2030-06-01,-0.061784759163856506
+Newfoundland And Labrador,tidal power turbine,2030-07-01,-0.015030937269330025
+Newfoundland And Labrador,tidal power turbine,2030-08-01,-0.02791731432080269
+Newfoundland And Labrador,tidal power turbine,2030-09-01,0.0022700675763189793
+Newfoundland And Labrador,tidal power turbine,2030-10-01,0.016032442450523376
+Newfoundland And Labrador,tidal power turbine,2030-11-01,0.017114365473389626
+Newfoundland And Labrador,tidal power turbine,2030-12-01,0.0166695024818182
+Newfoundland And Labrador,wind power turbine,2029-01-01,18553.454033911228
+Newfoundland And Labrador,wind power turbine,2029-02-01,19744.613146722317
+Newfoundland And Labrador,wind power turbine,2029-03-01,15464.189414322378
+Newfoundland And Labrador,wind power turbine,2029-04-01,17054.842585504055
+Newfoundland And Labrador,wind power turbine,2029-05-01,17399.44803237915
+Newfoundland And Labrador,wind power turbine,2029-06-01,16540.15895062685
+Newfoundland And Labrador,wind power turbine,2029-07-01,13534.982695460321
+Newfoundland And Labrador,wind power turbine,2029-08-01,10367.878495573997
+Newfoundland And Labrador,wind power turbine,2029-09-01,9042.870664656162
+Newfoundland And Labrador,wind power turbine,2029-10-01,9595.962717413902
+Newfoundland And Labrador,wind power turbine,2029-11-01,12350.870477497578
+Newfoundland And Labrador,wind power turbine,2029-12-01,14110.916042864324
+Newfoundland And Labrador,wind power turbine,2030-01-01,18985.094512283802
+Newfoundland And Labrador,wind power turbine,2030-02-01,19309.325672328472
+Newfoundland And Labrador,wind power turbine,2030-03-01,17345.29146283865
+Newfoundland And Labrador,wind power turbine,2030-04-01,18529.24379438162
+Newfoundland And Labrador,wind power turbine,2030-05-01,18173.11463290453
+Newfoundland And Labrador,wind power turbine,2030-06-01,18661.87816852331
+Newfoundland And Labrador,wind power turbine,2030-07-01,15267.946672618391
+Newfoundland And Labrador,wind power turbine,2030-08-01,12314.109814703465
+Newfoundland And Labrador,wind power turbine,2030-09-01,12302.143439352512
+Newfoundland And Labrador,wind power turbine,2030-10-01,12317.320756852627
+Newfoundland And Labrador,wind power turbine,2030-11-01,13640.865825235845
+Newfoundland And Labrador,wind power turbine,2030-12-01,16291.06515824795
+Northwest Territories,combustible fuels,2029-01-01,37023.778261870146
+Northwest Territories,combustible fuels,2029-02-01,38375.785759329796
+Northwest Territories,combustible fuels,2029-03-01,37728.476599276066
+Northwest Territories,combustible fuels,2029-04-01,34891.81313589215
+Northwest Territories,combustible fuels,2029-05-01,31575.621642768383
+Northwest Territories,combustible fuels,2029-06-01,32314.076773673296
+Northwest Territories,combustible fuels,2029-07-01,32676.271842300892
+Northwest Territories,combustible fuels,2029-08-01,31684.695855543017
+Northwest Territories,combustible fuels,2029-09-01,30784.41040185094
+Northwest Territories,combustible fuels,2029-10-01,27924.10318171233
+Northwest Territories,combustible fuels,2029-11-01,34687.74385693669
+Northwest Territories,combustible fuels,2029-12-01,34626.15327703953
+Northwest Territories,combustible fuels,2030-01-01,33087.47855630517
+Northwest Territories,combustible fuels,2030-02-01,34158.09216478467
+Northwest Territories,combustible fuels,2030-03-01,34088.71140009165
+Northwest Territories,combustible fuels,2030-04-01,35691.33822053671
+Northwest Territories,combustible fuels,2030-05-01,34521.777336239815
+Northwest Territories,combustible fuels,2030-06-01,37382.53820878267
+Northwest Territories,combustible fuels,2030-07-01,33423.593792676926
+Northwest Territories,combustible fuels,2030-08-01,29223.01970039308
+Northwest Territories,combustible fuels,2030-09-01,30487.174313813448
+Northwest Territories,combustible fuels,2030-10-01,30157.5269728899
+Northwest Territories,combustible fuels,2030-11-01,34046.48204770684
+Northwest Territories,combustible fuels,2030-12-01,29922.911596894264
+Northwest Territories,hydraulic turbine,2029-01-01,24758.817100882534
+Northwest Territories,hydraulic turbine,2029-02-01,24767.97355091572
+Northwest Territories,hydraulic turbine,2029-03-01,22273.39838719368
+Northwest Territories,hydraulic turbine,2029-04-01,23415.462749004368
+Northwest Territories,hydraulic turbine,2029-05-01,24407.656789541248
+Northwest Territories,hydraulic turbine,2029-06-01,25265.283069133762
+Northwest Territories,hydraulic turbine,2029-07-01,21023.169452548027
+Northwest Territories,hydraulic turbine,2029-08-01,21241.73684155941
+Northwest Territories,hydraulic turbine,2029-09-01,20368.173879146576
+Northwest Territories,hydraulic turbine,2029-10-01,19989.79089832306
+Northwest Territories,hydraulic turbine,2029-11-01,19485.218935489655
+Northwest Territories,hydraulic turbine,2029-12-01,19735.895221352577
+Northwest Territories,hydraulic turbine,2030-01-01,23156.416046261787
+Northwest Territories,hydraulic turbine,2030-02-01,24126.976057291035
+Northwest Territories,hydraulic turbine,2030-03-01,24301.352773904804
+Northwest Territories,hydraulic turbine,2030-04-01,23434.40419685841
+Northwest Territories,hydraulic turbine,2030-05-01,22850.080529808998
+Northwest Territories,hydraulic turbine,2030-06-01,21220.30768239498
+Northwest Territories,hydraulic turbine,2030-07-01,19151.014083981514
+Northwest Territories,hydraulic turbine,2030-08-01,21227.270486712456
+Northwest Territories,hydraulic turbine,2030-09-01,21596.65729022026
+Northwest Territories,hydraulic turbine,2030-10-01,19298.74650657177
+Northwest Territories,hydraulic turbine,2030-11-01,17431.449491858482
+Northwest Territories,hydraulic turbine,2030-12-01,21173.128969073296
+Northwest Territories,solar,2029-01-01,36.13947033882141
+Northwest Territories,solar,2029-02-01,-12.288218140602112
+Northwest Territories,solar,2029-03-01,52.089643597602844
+Northwest Territories,solar,2029-04-01,102.9907591342926
+Northwest Territories,solar,2029-05-01,148.4536647796631
+Northwest Territories,solar,2029-06-01,132.57295560836792
+Northwest Territories,solar,2029-07-01,152.55666160583496
+Northwest Territories,solar,2029-08-01,123.37629771232605
+Northwest Territories,solar,2029-09-01,170.31395435333252
+Northwest Territories,solar,2029-10-01,181.74671506881714
+Northwest Territories,solar,2029-11-01,131.48704385757446
+Northwest Territories,solar,2029-12-01,119.5669813156128
+Northwest Territories,solar,2030-01-01,3.807083398103714
+Northwest Territories,solar,2030-02-01,36.716845989227295
+Northwest Territories,solar,2030-03-01,62.180214166641235
+Northwest Territories,solar,2030-04-01,79.21309518814087
+Northwest Territories,solar,2030-05-01,69.41764259338379
+Northwest Territories,solar,2030-06-01,60.37570369243622
+Northwest Territories,solar,2030-07-01,48.18574118614197
+Northwest Territories,solar,2030-08-01,20.46920073032379
+Northwest Territories,solar,2030-09-01,86.49622201919556
+Northwest Territories,solar,2030-10-01,166.67837762832642
+Northwest Territories,solar,2030-11-01,140.25516557693481
+Northwest Territories,solar,2030-12-01,69.60252046585083
+Northwest Territories,wind power turbine,2029-01-01,1026.0912655293941
+Northwest Territories,wind power turbine,2029-02-01,1952.755962908268
+Northwest Territories,wind power turbine,2029-03-01,1766.7225483059883
+Northwest Territories,wind power turbine,2029-04-01,1692.2199401259422
+Northwest Territories,wind power turbine,2029-05-01,1557.8096377849579
+Northwest Territories,wind power turbine,2029-06-01,1700.139407813549
+Northwest Territories,wind power turbine,2029-07-01,1474.1895309090614
+Northwest Territories,wind power turbine,2029-08-01,1288.5180708765984
+Northwest Territories,wind power turbine,2029-09-01,1655.304611325264
+Northwest Territories,wind power turbine,2029-10-01,1580.593466758728
+Northwest Territories,wind power turbine,2029-11-01,1746.0219767689705
+Northwest Territories,wind power turbine,2029-12-01,1692.6670295000076
+Northwest Territories,wind power turbine,2030-01-01,1447.9087679088116
+Northwest Territories,wind power turbine,2030-02-01,1601.9851222634315
+Northwest Territories,wind power turbine,2030-03-01,1651.2944987416267
+Northwest Territories,wind power turbine,2030-04-01,2030.0144812464714
+Northwest Territories,wind power turbine,2030-05-01,1667.9977717995644
+Northwest Territories,wind power turbine,2030-06-01,1813.7466257810593
+Northwest Territories,wind power turbine,2030-07-01,1487.093509733677
+Northwest Territories,wind power turbine,2030-08-01,1481.9527718424797
+Northwest Territories,wind power turbine,2030-09-01,1646.7737528681755
+Northwest Territories,wind power turbine,2030-10-01,2046.7072221636772
+Northwest Territories,wind power turbine,2030-11-01,1973.6213624477386
+Northwest Territories,wind power turbine,2030-12-01,1420.2168735861778
+Nova Scotia,combustible fuels,2029-01-01,758582.8984938859
+Nova Scotia,combustible fuels,2029-02-01,745485.8496804832
+Nova Scotia,combustible fuels,2029-03-01,560407.5737493038
+Nova Scotia,combustible fuels,2029-04-01,478767.08417366445
+Nova Scotia,combustible fuels,2029-05-01,465775.9013556987
+Nova Scotia,combustible fuels,2029-06-01,502945.79618665576
+Nova Scotia,combustible fuels,2029-07-01,595166.0645939708
+Nova Scotia,combustible fuels,2029-08-01,628731.8819718361
+Nova Scotia,combustible fuels,2029-09-01,640661.851518929
+Nova Scotia,combustible fuels,2029-10-01,633994.8674680591
+Nova Scotia,combustible fuels,2029-11-01,650472.690438807
+Nova Scotia,combustible fuels,2029-12-01,703396.5531842707
+Nova Scotia,combustible fuels,2030-01-01,711373.9887835382
+Nova Scotia,combustible fuels,2030-02-01,642467.7685399652
+Nova Scotia,combustible fuels,2030-03-01,563796.1197544932
+Nova Scotia,combustible fuels,2030-04-01,455878.15812151134
+Nova Scotia,combustible fuels,2030-05-01,448465.7989304811
+Nova Scotia,combustible fuels,2030-06-01,460644.6608875245
+Nova Scotia,combustible fuels,2030-07-01,548706.7109524012
+Nova Scotia,combustible fuels,2030-08-01,609624.143002212
+Nova Scotia,combustible fuels,2030-09-01,626831.5024127364
+Nova Scotia,combustible fuels,2030-10-01,604789.8095013499
+Nova Scotia,combustible fuels,2030-11-01,623600.0413216949
+Nova Scotia,combustible fuels,2030-12-01,630967.4275555015
+Nova Scotia,hydraulic turbine,2029-01-01,133792.73506724834
+Nova Scotia,hydraulic turbine,2029-02-01,129000.81487357616
+Nova Scotia,hydraulic turbine,2029-03-01,130505.67422807217
+Nova Scotia,hydraulic turbine,2029-04-01,116271.3420843482
+Nova Scotia,hydraulic turbine,2029-05-01,121533.09118336439
+Nova Scotia,hydraulic turbine,2029-06-01,106501.06748187542
+Nova Scotia,hydraulic turbine,2029-07-01,117976.92618358135
+Nova Scotia,hydraulic turbine,2029-08-01,97773.10518145561
+Nova Scotia,hydraulic turbine,2029-09-01,98790.21697968245
+Nova Scotia,hydraulic turbine,2029-10-01,107668.99814903736
+Nova Scotia,hydraulic turbine,2029-11-01,119218.94735640287
+Nova Scotia,hydraulic turbine,2029-12-01,135832.25998920202
+Nova Scotia,hydraulic turbine,2030-01-01,134607.346475482
+Nova Scotia,hydraulic turbine,2030-02-01,126686.3722601533
+Nova Scotia,hydraulic turbine,2030-03-01,114310.17604607344
+Nova Scotia,hydraulic turbine,2030-04-01,127182.94682216644
+Nova Scotia,hydraulic turbine,2030-05-01,113056.65586286783
+Nova Scotia,hydraulic turbine,2030-06-01,125051.48957443237
+Nova Scotia,hydraulic turbine,2030-07-01,103631.47108650208
+Nova Scotia,hydraulic turbine,2030-08-01,99266.02161425352
+Nova Scotia,hydraulic turbine,2030-09-01,90970.58259528875
+Nova Scotia,hydraulic turbine,2030-10-01,102498.4386780262
+Nova Scotia,hydraulic turbine,2030-11-01,122161.33667051792
+Nova Scotia,hydraulic turbine,2030-12-01,134425.8465053439
+Nova Scotia,other types of electricity generation,2029-01-01,0.2090987265110016
+Nova Scotia,other types of electricity generation,2029-02-01,0.1665733903646469
+Nova Scotia,other types of electricity generation,2029-03-01,0.21242167055606842
+Nova Scotia,other types of electricity generation,2029-04-01,0.29809513688087463
+Nova Scotia,other types of electricity generation,2029-05-01,0.33461517095565796
+Nova Scotia,other types of electricity generation,2029-06-01,0.27148163318634033
+Nova Scotia,other types of electricity generation,2029-07-01,0.29022014141082764
+Nova Scotia,other types of electricity generation,2029-08-01,0.3725982904434204
+Nova Scotia,other types of electricity generation,2029-09-01,0.2790689468383789
+Nova Scotia,other types of electricity generation,2029-10-01,0.28276240825653076
+Nova Scotia,other types of electricity generation,2029-11-01,0.2743111848831177
+Nova Scotia,other types of electricity generation,2029-12-01,0.265929639339447
+Nova Scotia,other types of electricity generation,2030-01-01,0.17797861993312836
+Nova Scotia,other types of electricity generation,2030-02-01,0.0908786952495575
+Nova Scotia,other types of electricity generation,2030-03-01,0.2243601232767105
+Nova Scotia,other types of electricity generation,2030-04-01,0.24871380627155304
+Nova Scotia,other types of electricity generation,2030-05-01,0.2782077491283417
+Nova Scotia,other types of electricity generation,2030-06-01,0.19920839369297028
+Nova Scotia,other types of electricity generation,2030-07-01,0.1939859390258789
+Nova Scotia,other types of electricity generation,2030-08-01,0.25559189915657043
+Nova Scotia,other types of electricity generation,2030-09-01,0.2543650269508362
+Nova Scotia,other types of electricity generation,2030-10-01,0.2207690179347992
+Nova Scotia,other types of electricity generation,2030-11-01,0.2354811429977417
+Nova Scotia,other types of electricity generation,2030-12-01,0.20163176953792572
+Nova Scotia,solar,2029-01-01,-0.0006332049961201847
+Nova Scotia,solar,2029-02-01,-0.024838531389832497
+Nova Scotia,solar,2029-03-01,-0.03980299457907677
+Nova Scotia,solar,2029-04-01,-0.12615247070789337
+Nova Scotia,solar,2029-05-01,-0.047003474086523056
+Nova Scotia,solar,2029-06-01,-0.0430804081261158
+Nova Scotia,solar,2029-07-01,-0.038439083844423294
+Nova Scotia,solar,2029-08-01,0.012755711562931538
+Nova Scotia,solar,2029-09-01,-0.03943904861807823
+Nova Scotia,solar,2029-10-01,-0.10497827082872391
+Nova Scotia,solar,2029-11-01,-0.1570952981710434
+Nova Scotia,solar,2029-12-01,-0.1192622035741806
+Nova Scotia,solar,2030-01-01,-0.04893089458346367
+Nova Scotia,solar,2030-02-01,-0.03657965734601021
+Nova Scotia,solar,2030-03-01,-0.02250313200056553
+Nova Scotia,solar,2030-04-01,-0.06949451565742493
+Nova Scotia,solar,2030-05-01,0.029718583449721336
+Nova Scotia,solar,2030-06-01,-0.03093419410288334
+Nova Scotia,solar,2030-07-01,-0.04141303524374962
+Nova Scotia,solar,2030-08-01,-0.02536916919052601
+Nova Scotia,solar,2030-09-01,-0.04033121094107628
+Nova Scotia,solar,2030-10-01,-0.09963955730199814
+Nova Scotia,solar,2030-11-01,-0.15010400116443634
+Nova Scotia,solar,2030-12-01,-0.11671044677495956
+Nova Scotia,tidal power turbine,2029-01-01,-186.52771846950054
+Nova Scotia,tidal power turbine,2029-02-01,-376.7156472504139
+Nova Scotia,tidal power turbine,2029-03-01,-572.2870852053165
+Nova Scotia,tidal power turbine,2029-04-01,-485.07204979658127
+Nova Scotia,tidal power turbine,2029-05-01,-725.7779262363911
+Nova Scotia,tidal power turbine,2029-06-01,-801.5127032995224
+Nova Scotia,tidal power turbine,2029-07-01,-821.8229169845581
+Nova Scotia,tidal power turbine,2029-08-01,-673.4101490080357
+Nova Scotia,tidal power turbine,2029-09-01,-282.36957590281963
+Nova Scotia,tidal power turbine,2029-10-01,-186.91389261186123
+Nova Scotia,tidal power turbine,2029-11-01,-305.9382151067257
+Nova Scotia,tidal power turbine,2029-12-01,-391.9682700932026
+Nova Scotia,tidal power turbine,2030-01-01,-321.9805073440075
+Nova Scotia,tidal power turbine,2030-02-01,-179.78194731473923
+Nova Scotia,tidal power turbine,2030-03-01,-132.5745184123516
+Nova Scotia,tidal power turbine,2030-04-01,-142.7104637771845
+Nova Scotia,tidal power turbine,2030-05-01,-254.3976507782936
+Nova Scotia,tidal power turbine,2030-06-01,-572.6101239025593
+Nova Scotia,tidal power turbine,2030-07-01,-610.7203760445118
+Nova Scotia,tidal power turbine,2030-08-01,-494.08443972468376
+Nova Scotia,tidal power turbine,2030-09-01,-190.88088142871857
+Nova Scotia,tidal power turbine,2030-10-01,-148.0409703552723
+Nova Scotia,tidal power turbine,2030-11-01,-349.54105611145496
+Nova Scotia,tidal power turbine,2030-12-01,-429.1893430650234
+Nova Scotia,wind power turbine,2029-01-01,160238.09594243762
+Nova Scotia,wind power turbine,2029-02-01,157414.23583507535
+Nova Scotia,wind power turbine,2029-03-01,197856.30885004997
+Nova Scotia,wind power turbine,2029-04-01,193164.344227314
+Nova Scotia,wind power turbine,2029-05-01,205329.2729073763
+Nova Scotia,wind power turbine,2029-06-01,168148.26110631225
+Nova Scotia,wind power turbine,2029-07-01,166995.3100198507
+Nova Scotia,wind power turbine,2029-08-01,164601.35085254905
+Nova Scotia,wind power turbine,2029-09-01,163881.3643494248
+Nova Scotia,wind power turbine,2029-10-01,156368.96725982425
+Nova Scotia,wind power turbine,2029-11-01,152171.18953078982
+Nova Scotia,wind power turbine,2029-12-01,157449.15934622285
+Nova Scotia,wind power turbine,2030-01-01,157385.71260839698
+Nova Scotia,wind power turbine,2030-02-01,155692.3773142695
+Nova Scotia,wind power turbine,2030-03-01,198212.09591150284
+Nova Scotia,wind power turbine,2030-04-01,214524.95492339134
+Nova Scotia,wind power turbine,2030-05-01,215198.32956016064
+Nova Scotia,wind power turbine,2030-06-01,157216.43367856738
+Nova Scotia,wind power turbine,2030-07-01,149523.78718733785
+Nova Scotia,wind power turbine,2030-08-01,160928.527893424
+Nova Scotia,wind power turbine,2030-09-01,164117.69965618846
+Nova Scotia,wind power turbine,2030-10-01,170409.43206518888
+Nova Scotia,wind power turbine,2030-11-01,153728.3291980624
+Nova Scotia,wind power turbine,2030-12-01,149291.57718241212
+Nunavut,combustible fuels,2029-01-01,17642.57979273796
+Nunavut,combustible fuels,2029-02-01,17993.541500091553
+Nunavut,combustible fuels,2029-03-01,17356.319567382336
+Nunavut,combustible fuels,2029-04-01,17036.2925106287
+Nunavut,combustible fuels,2029-05-01,15955.569718062876
+Nunavut,combustible fuels,2029-06-01,15039.851100444794
+Nunavut,combustible fuels,2029-07-01,13820.194678217173
+Nunavut,combustible fuels,2029-08-01,13498.168269604445
+Nunavut,combustible fuels,2029-09-01,13767.260127097368
+Nunavut,combustible fuels,2029-10-01,14406.360025793314
+Nunavut,combustible fuels,2029-11-01,15681.807082176208
+Nunavut,combustible fuels,2029-12-01,16733.396328032017
+Nunavut,combustible fuels,2030-01-01,17636.910744428635
+Nunavut,combustible fuels,2030-02-01,17938.17454481125
+Nunavut,combustible fuels,2030-03-01,17337.546937584877
+Nunavut,combustible fuels,2030-04-01,17089.153949022293
+Nunavut,combustible fuels,2030-05-01,16030.172350406645
+Nunavut,combustible fuels,2030-06-01,15273.702623903751
+Nunavut,combustible fuels,2030-07-01,14004.046470373869
+Nunavut,combustible fuels,2030-08-01,13623.55940708518
+Nunavut,combustible fuels,2030-09-01,13850.911865323782
+Nunavut,combustible fuels,2030-10-01,14463.266800701618
+Nunavut,combustible fuels,2030-11-01,15678.421400547028
+Nunavut,combustible fuels,2030-12-01,16808.42591995001
+Nunavut,hydraulic turbine,2029-01-01,0.02263719029724598
+Nunavut,hydraulic turbine,2029-02-01,0.016578026115894318
+Nunavut,hydraulic turbine,2029-03-01,0.017658956348896027
+Nunavut,hydraulic turbine,2029-04-01,0.024458205327391624
+Nunavut,hydraulic turbine,2029-05-01,0.030519792810082436
+Nunavut,hydraulic turbine,2029-06-01,0.02982448600232601
+Nunavut,hydraulic turbine,2029-07-01,0.02498544007539749
+Nunavut,hydraulic turbine,2029-08-01,0.021209364756941795
+Nunavut,hydraulic turbine,2029-09-01,0.022186001762747765
+Nunavut,hydraulic turbine,2029-10-01,0.03138932213187218
+Nunavut,hydraulic turbine,2029-11-01,0.03442338854074478
+Nunavut,hydraulic turbine,2029-12-01,0.03229117393493652
+Nunavut,hydraulic turbine,2030-01-01,0.02248235046863556
+Nunavut,hydraulic turbine,2030-02-01,0.019858935847878456
+Nunavut,hydraulic turbine,2030-03-01,0.022277576848864555
+Nunavut,hydraulic turbine,2030-04-01,0.03027278184890747
+Nunavut,hydraulic turbine,2030-05-01,0.03276486694812775
+Nunavut,hydraulic turbine,2030-06-01,0.033483728766441345
+Nunavut,hydraulic turbine,2030-07-01,0.025493837893009186
+Nunavut,hydraulic turbine,2030-08-01,0.021577775478363037
+Nunavut,hydraulic turbine,2030-09-01,0.02341623418033123
+Nunavut,hydraulic turbine,2030-10-01,0.031637437641620636
+Nunavut,hydraulic turbine,2030-11-01,0.03168302774429321
+Nunavut,hydraulic turbine,2030-12-01,0.03129228577017784
+Nunavut,solar,2029-01-01,-0.016460010781884193
+Nunavut,solar,2029-02-01,-0.013656960800290108
+Nunavut,solar,2029-03-01,-0.01926005445420742
+Nunavut,solar,2029-04-01,-0.022447051480412483
+Nunavut,solar,2029-05-01,-0.020624132826924324
+Nunavut,solar,2029-06-01,-0.014323348179459572
+Nunavut,solar,2029-07-01,-0.0156539399176836
+Nunavut,solar,2029-08-01,-0.01736992411315441
+Nunavut,solar,2029-09-01,-0.01803947053849697
+Nunavut,solar,2029-10-01,-0.02080138586461544
+Nunavut,solar,2029-11-01,-0.022106872871518135
+Nunavut,solar,2029-12-01,-0.0238205436617136
+Nunavut,solar,2030-01-01,-0.019220618531107903
+Nunavut,solar,2030-02-01,-0.01470213197171688
+Nunavut,solar,2030-03-01,-0.021361572667956352
+Nunavut,solar,2030-04-01,-0.019769517704844475
+Nunavut,solar,2030-05-01,-0.018041690811514854
+Nunavut,solar,2030-06-01,-0.012146426364779472
+Nunavut,solar,2030-07-01,-0.01761213131248951
+Nunavut,solar,2030-08-01,-0.017785711213946342
+Nunavut,solar,2030-09-01,-0.018267406150698662
+Nunavut,solar,2030-10-01,-0.02086903341114521
+Nunavut,solar,2030-11-01,-0.020586205646395683
+Nunavut,solar,2030-12-01,-0.021250011399388313
+Nunavut,wind power turbine,2029-01-01,-0.0016064555384218693
+Nunavut,wind power turbine,2029-02-01,0.009583575651049614
+Nunavut,wind power turbine,2029-03-01,0.011782092973589897
+Nunavut,wind power turbine,2029-04-01,0.011918744072318077
+Nunavut,wind power turbine,2029-05-01,0.011764010414481163
+Nunavut,wind power turbine,2029-06-01,0.010284988209605217
+Nunavut,wind power turbine,2029-07-01,0.0002575567923486233
+Nunavut,wind power turbine,2029-08-01,0.006070734467357397
+Nunavut,wind power turbine,2029-09-01,0.008890269324183464
+Nunavut,wind power turbine,2029-10-01,0.013218099251389503
+Nunavut,wind power turbine,2029-11-01,0.006896571721881628
+Nunavut,wind power turbine,2029-12-01,0.0022232993505895138
+Nunavut,wind power turbine,2030-01-01,0.0008277050219476223
+Nunavut,wind power turbine,2030-02-01,0.00811169482767582
+Nunavut,wind power turbine,2030-03-01,0.008791303262114525
+Nunavut,wind power turbine,2030-04-01,0.006572993006557226
+Nunavut,wind power turbine,2030-05-01,0.005689376499503851
+Nunavut,wind power turbine,2030-06-01,0.013835357502102852
+Nunavut,wind power turbine,2030-07-01,0.011615032330155373
+Nunavut,wind power turbine,2030-08-01,0.01195572130382061
+Nunavut,wind power turbine,2030-09-01,0.00938810221850872
+Nunavut,wind power turbine,2030-10-01,0.010349201038479805
+Nunavut,wind power turbine,2030-11-01,0.001460982020944357
+Nunavut,wind power turbine,2030-12-01,-0.0027130343951284885
+Ontario,combustible fuels,2029-01-01,2168630.1095687747
+Ontario,combustible fuels,2029-02-01,2335245.5570737123
+Ontario,combustible fuels,2029-03-01,2328383.52160269
+Ontario,combustible fuels,2029-04-01,2009894.2063646317
+Ontario,combustible fuels,2029-05-01,1922704.7582484186
+Ontario,combustible fuels,2029-06-01,1827842.6717557013
+Ontario,combustible fuels,2029-07-01,2150022.5472058654
+Ontario,combustible fuels,2029-08-01,2470482.142063439
+Ontario,combustible fuels,2029-09-01,2190447.41937536
+Ontario,combustible fuels,2029-10-01,2155750.3879573345
+Ontario,combustible fuels,2029-11-01,2024516.8373668492
+Ontario,combustible fuels,2029-12-01,2040260.3809679449
+Ontario,combustible fuels,2030-01-01,2102393.649554491
+Ontario,combustible fuels,2030-02-01,2030133.1083046496
+Ontario,combustible fuels,2030-03-01,2242401.5658349395
+Ontario,combustible fuels,2030-04-01,1867921.2249268591
+Ontario,combustible fuels,2030-05-01,1936895.3759774268
+Ontario,combustible fuels,2030-06-01,1867041.4566077888
+Ontario,combustible fuels,2030-07-01,2185830.3574566245
+Ontario,combustible fuels,2030-08-01,2399914.1365318894
+Ontario,combustible fuels,2030-09-01,2212361.344311595
+Ontario,combustible fuels,2030-10-01,2117443.3745259643
+Ontario,combustible fuels,2030-11-01,2084430.7127816677
+Ontario,combustible fuels,2030-12-01,2002923.651048392
+Ontario,hydraulic turbine,2029-01-01,3787799.38985157
+Ontario,hydraulic turbine,2029-02-01,3570583.1685273647
+Ontario,hydraulic turbine,2029-03-01,3454788.925281048
+Ontario,hydraulic turbine,2029-04-01,3441698.245075226
+Ontario,hydraulic turbine,2029-05-01,3517104.885396242
+Ontario,hydraulic turbine,2029-06-01,3454061.248859644
+Ontario,hydraulic turbine,2029-07-01,3439304.4707255363
+Ontario,hydraulic turbine,2029-08-01,3346834.848937273
+Ontario,hydraulic turbine,2029-09-01,3300899.9156825542
+Ontario,hydraulic turbine,2029-10-01,3453659.746367216
+Ontario,hydraulic turbine,2029-11-01,3668217.481524229
+Ontario,hydraulic turbine,2029-12-01,3817165.5369906425
+Ontario,hydraulic turbine,2030-01-01,3834669.6215384007
+Ontario,hydraulic turbine,2030-02-01,3672121.0751407146
+Ontario,hydraulic turbine,2030-03-01,3594185.3688709736
+Ontario,hydraulic turbine,2030-04-01,3475669.42842412
+Ontario,hydraulic turbine,2030-05-01,3532713.6383275986
+Ontario,hydraulic turbine,2030-06-01,3578931.647079468
+Ontario,hydraulic turbine,2030-07-01,3430696.6520445347
+Ontario,hydraulic turbine,2030-08-01,3466433.3720223904
+Ontario,hydraulic turbine,2030-09-01,3305210.7582490444
+Ontario,hydraulic turbine,2030-10-01,3540955.9323375225
+Ontario,hydraulic turbine,2030-11-01,3584002.0214300156
+Ontario,hydraulic turbine,2030-12-01,3735214.930719614
+Ontario,nuclear steam turbine,2029-01-01,5814017.01549685
+Ontario,nuclear steam turbine,2029-02-01,6090919.006088257
+Ontario,nuclear steam turbine,2029-03-01,6024298.631859064
+Ontario,nuclear steam turbine,2029-04-01,6160029.973800898
+Ontario,nuclear steam turbine,2029-05-01,5856251.686334133
+Ontario,nuclear steam turbine,2029-06-01,5735596.581768274
+Ontario,nuclear steam turbine,2029-07-01,5740641.718061209
+Ontario,nuclear steam turbine,2029-08-01,5897678.108745098
+Ontario,nuclear steam turbine,2029-09-01,6018761.134758949
+Ontario,nuclear steam turbine,2029-10-01,5860987.182930589
+Ontario,nuclear steam turbine,2029-11-01,5751475.064664483
+Ontario,nuclear steam turbine,2029-12-01,5606315.668684483
+Ontario,nuclear steam turbine,2030-01-01,5808632.224977016
+Ontario,nuclear steam turbine,2030-02-01,5924517.224355221
+Ontario,nuclear steam turbine,2030-03-01,6019864.934428692
+Ontario,nuclear steam turbine,2030-04-01,6139825.294496536
+Ontario,nuclear steam turbine,2030-05-01,5899870.639565229
+Ontario,nuclear steam turbine,2030-06-01,5695087.5626677275
+Ontario,nuclear steam turbine,2030-07-01,5663304.686372519
+Ontario,nuclear steam turbine,2030-08-01,5787922.995290875
+Ontario,nuclear steam turbine,2030-09-01,5914340.950951576
+Ontario,nuclear steam turbine,2030-10-01,5751373.260277629
+Ontario,nuclear steam turbine,2030-11-01,5745297.0329835415
+Ontario,nuclear steam turbine,2030-12-01,5626185.839110017
+Ontario,other types of electricity generation,2029-01-01,72.52944111824036
+Ontario,other types of electricity generation,2029-02-01,-10.290949046611786
+Ontario,other types of electricity generation,2029-03-01,36.913496255874634
+Ontario,other types of electricity generation,2029-04-01,13.67076188325882
+Ontario,other types of electricity generation,2029-05-01,22.933371365070343
+Ontario,other types of electricity generation,2029-06-01,42.00308918952942
+Ontario,other types of electricity generation,2029-07-01,51.352232694625854
+Ontario,other types of electricity generation,2029-08-01,33.64744782447815
+Ontario,other types of electricity generation,2029-09-01,102.86823511123657
+Ontario,other types of electricity generation,2029-10-01,42.8061306476593
+Ontario,other types of electricity generation,2029-11-01,6.236536800861359
+Ontario,other types of electricity generation,2029-12-01,-3.9143964648246765
+Ontario,other types of electricity generation,2030-01-01,40.68363308906555
+Ontario,other types of electricity generation,2030-02-01,12.743552029132843
+Ontario,other types of electricity generation,2030-03-01,18.151600658893585
+Ontario,other types of electricity generation,2030-04-01,46.975547075271606
+Ontario,other types of electricity generation,2030-05-01,18.099434673786163
+Ontario,other types of electricity generation,2030-06-01,44.161444902420044
+Ontario,other types of electricity generation,2030-07-01,28.26562523841858
+Ontario,other types of electricity generation,2030-08-01,60.80926060676575
+Ontario,other types of electricity generation,2030-09-01,96.80481553077698
+Ontario,other types of electricity generation,2030-10-01,33.43396782875061
+Ontario,other types of electricity generation,2030-11-01,9.164340794086456
+Ontario,other types of electricity generation,2030-12-01,7.997329533100128
+Ontario,solar,2029-01-01,191135.54798913002
+Ontario,solar,2029-02-01,188044.38588792086
+Ontario,solar,2029-03-01,195915.13167607784
+Ontario,solar,2029-04-01,234232.6301883459
+Ontario,solar,2029-05-01,235537.66173183918
+Ontario,solar,2029-06-01,233834.9976838231
+Ontario,solar,2029-07-01,214802.2800169587
+Ontario,solar,2029-08-01,169452.7483508885
+Ontario,solar,2029-09-01,167538.37476745248
+Ontario,solar,2029-10-01,156923.38850730658
+Ontario,solar,2029-11-01,172638.525441885
+Ontario,solar,2029-12-01,183123.43257540464
+Ontario,solar,2030-01-01,200149.80930626392
+Ontario,solar,2030-02-01,202420.5690611601
+Ontario,solar,2030-03-01,199223.1159914732
+Ontario,solar,2030-04-01,235429.56509506702
+Ontario,solar,2030-05-01,218706.58121448755
+Ontario,solar,2030-06-01,227361.83915555477
+Ontario,solar,2030-07-01,204017.71310019493
+Ontario,solar,2030-08-01,167283.248039335
+Ontario,solar,2030-09-01,160379.51877647638
+Ontario,solar,2030-10-01,153890.84976044297
+Ontario,solar,2030-11-01,164349.33124279976
+Ontario,solar,2030-12-01,177943.7006213665
+Ontario,wind power turbine,2029-01-01,1324204.2923933268
+Ontario,wind power turbine,2029-02-01,1341254.4317996502
+Ontario,wind power turbine,2029-03-01,1230938.7124245167
+Ontario,wind power turbine,2029-04-01,1240360.965686679
+Ontario,wind power turbine,2029-05-01,1125805.93958807
+Ontario,wind power turbine,2029-06-01,1184365.599083662
+Ontario,wind power turbine,2029-07-01,1168038.420719266
+Ontario,wind power turbine,2029-08-01,1174842.1127855778
+Ontario,wind power turbine,2029-09-01,1283292.5556924343
+Ontario,wind power turbine,2029-10-01,1356158.338394165
+Ontario,wind power turbine,2029-11-01,1414195.0067626238
+Ontario,wind power turbine,2029-12-01,1381759.9420531988
+Ontario,wind power turbine,2030-01-01,1376192.5873287916
+Ontario,wind power turbine,2030-02-01,1354755.5905822515
+Ontario,wind power turbine,2030-03-01,1256150.6382329464
+Ontario,wind power turbine,2030-04-01,1257792.6473206282
+Ontario,wind power turbine,2030-05-01,1235749.6391124725
+Ontario,wind power turbine,2030-06-01,1190389.1958466768
+Ontario,wind power turbine,2030-07-01,1225309.3235749006
+Ontario,wind power turbine,2030-08-01,1230924.3826340437
+Ontario,wind power turbine,2030-09-01,1309106.794952035
+Ontario,wind power turbine,2030-10-01,1337822.3083059788
+Ontario,wind power turbine,2030-11-01,1356336.2126965523
+Ontario,wind power turbine,2030-12-01,1336091.1771665812
+Prince Edward Island,combustible fuels,2029-01-01,1716.86826094985
+Prince Edward Island,combustible fuels,2029-02-01,943.085795417428
+Prince Edward Island,combustible fuels,2029-03-01,637.0205237343907
+Prince Edward Island,combustible fuels,2029-04-01,401.8701020628214
+Prince Edward Island,combustible fuels,2029-05-01,501.8608609959483
+Prince Edward Island,combustible fuels,2029-06-01,1143.3740448951721
+Prince Edward Island,combustible fuels,2029-07-01,565.8131689950824
+Prince Edward Island,combustible fuels,2029-08-01,-108.72790313325822
+Prince Edward Island,combustible fuels,2029-09-01,-615.5028838664293
+Prince Edward Island,combustible fuels,2029-10-01,73.78295418806374
+Prince Edward Island,combustible fuels,2029-11-01,530.4691322520375
+Prince Edward Island,combustible fuels,2029-12-01,1181.0182841867208
+Prince Edward Island,combustible fuels,2030-01-01,1555.2251594513655
+Prince Edward Island,combustible fuels,2030-02-01,945.2497992664576
+Prince Edward Island,combustible fuels,2030-03-01,466.52502842247486
+Prince Edward Island,combustible fuels,2030-04-01,666.4605460315943
+Prince Edward Island,combustible fuels,2030-05-01,563.3243179693818
+Prince Edward Island,combustible fuels,2030-06-01,1061.8823605030775
+Prince Edward Island,combustible fuels,2030-07-01,452.4766921624541
+Prince Edward Island,combustible fuels,2030-08-01,-189.25263366661966
+Prince Edward Island,combustible fuels,2030-09-01,-924.1368193924427
+Prince Edward Island,combustible fuels,2030-10-01,-62.84085642546415
+Prince Edward Island,combustible fuels,2030-11-01,543.9783170446754
+Prince Edward Island,combustible fuels,2030-12-01,1220.0754427164793
+Prince Edward Island,hydraulic turbine,2029-01-01,0.006155972369015217
+Prince Edward Island,hydraulic turbine,2029-02-01,-0.014684798195958138
+Prince Edward Island,hydraulic turbine,2029-03-01,-0.03553873300552368
+Prince Edward Island,hydraulic turbine,2029-04-01,-0.04327092692255974
+Prince Edward Island,hydraulic turbine,2029-05-01,0.014905577525496483
+Prince Edward Island,hydraulic turbine,2029-06-01,0.006239863112568855
+Prince Edward Island,hydraulic turbine,2029-07-01,-0.006287984549999237
+Prince Edward Island,hydraulic turbine,2029-08-01,0.008986486122012138
+Prince Edward Island,hydraulic turbine,2029-09-01,-0.009687386453151703
+Prince Edward Island,hydraulic turbine,2029-10-01,-0.016996704041957855
+Prince Edward Island,hydraulic turbine,2029-11-01,0.016705520451068878
+Prince Edward Island,hydraulic turbine,2029-12-01,0.030762819573283195
+Prince Edward Island,hydraulic turbine,2030-01-01,0.003718386171385646
+Prince Edward Island,hydraulic turbine,2030-02-01,-0.020445415750145912
+Prince Edward Island,hydraulic turbine,2030-03-01,-0.02811863087117672
+Prince Edward Island,hydraulic turbine,2030-04-01,-0.056355495005846024
+Prince Edward Island,hydraulic turbine,2030-05-01,0.008194932714104652
+Prince Edward Island,hydraulic turbine,2030-06-01,0.01470356434583664
+Prince Edward Island,hydraulic turbine,2030-07-01,-0.001303145894780755
+Prince Edward Island,hydraulic turbine,2030-08-01,0.012807827442884445
+Prince Edward Island,hydraulic turbine,2030-09-01,-0.01123526319861412
+Prince Edward Island,hydraulic turbine,2030-10-01,-0.022003736346960068
+Prince Edward Island,hydraulic turbine,2030-11-01,0.01717151328921318
+Prince Edward Island,hydraulic turbine,2030-12-01,0.029746396467089653
+Prince Edward Island,other types of electricity generation,2029-01-01,-0.016536153852939606
+Prince Edward Island,other types of electricity generation,2029-02-01,-0.047610968351364136
+Prince Edward Island,other types of electricity generation,2029-03-01,-0.03866787999868393
+Prince Edward Island,other types of electricity generation,2029-04-01,0.006024384871125221
+Prince Edward Island,other types of electricity generation,2029-05-01,-0.00910793337970972
+Prince Edward Island,other types of electricity generation,2029-06-01,0.006008845753967762
+Prince Edward Island,other types of electricity generation,2029-07-01,0.031220637261867523
+Prince Edward Island,other types of electricity generation,2029-08-01,-0.0526358000934124
+Prince Edward Island,other types of electricity generation,2029-09-01,-0.06603236496448517
+Prince Edward Island,other types of electricity generation,2029-10-01,-0.033701617270708084
+Prince Edward Island,other types of electricity generation,2029-11-01,-0.0069795818999409676
+Prince Edward Island,other types of electricity generation,2029-12-01,-0.02018090710043907
+Prince Edward Island,other types of electricity generation,2030-01-01,-0.0012987602967768908
+Prince Edward Island,other types of electricity generation,2030-02-01,-0.06447944790124893
+Prince Edward Island,other types of electricity generation,2030-03-01,-0.04955023527145386
+Prince Edward Island,other types of electricity generation,2030-04-01,-0.002426454098895192
+Prince Edward Island,other types of electricity generation,2030-05-01,-0.02102341130375862
+Prince Edward Island,other types of electricity generation,2030-06-01,-0.0027620953042060137
+Prince Edward Island,other types of electricity generation,2030-07-01,0.015360838733613491
+Prince Edward Island,other types of electricity generation,2030-08-01,-0.0445660725235939
+Prince Edward Island,other types of electricity generation,2030-09-01,-0.06010488420724869
+Prince Edward Island,other types of electricity generation,2030-10-01,-0.019600221887230873
+Prince Edward Island,other types of electricity generation,2030-11-01,-0.002533205784857273
+Prince Edward Island,other types of electricity generation,2030-12-01,-0.002590879797935486
+Prince Edward Island,solar,2029-01-01,24.42615395784378
+Prince Edward Island,solar,2029-02-01,21.120178043842316
+Prince Edward Island,solar,2029-03-01,24.93104076385498
+Prince Edward Island,solar,2029-04-01,42.681487798690796
+Prince Edward Island,solar,2029-05-01,63.26031541824341
+Prince Edward Island,solar,2029-06-01,69.40024268627167
+Prince Edward Island,solar,2029-07-01,73.31517028808594
+Prince Edward Island,solar,2029-08-01,66.59402167797089
+Prince Edward Island,solar,2029-09-01,55.726425528526306
+Prince Edward Island,solar,2029-10-01,51.91377866268158
+Prince Edward Island,solar,2029-11-01,46.811827301979065
+Prince Edward Island,solar,2029-12-01,34.95617824792862
+Prince Edward Island,solar,2030-01-01,24.882163107395172
+Prince Edward Island,solar,2030-02-01,23.36663156747818
+Prince Edward Island,solar,2030-03-01,24.76907604932785
+Prince Edward Island,solar,2030-04-01,39.26092076301575
+Prince Edward Island,solar,2030-05-01,64.37775087356567
+Prince Edward Island,solar,2030-06-01,70.7703343629837
+Prince Edward Island,solar,2030-07-01,73.12890899181366
+Prince Edward Island,solar,2030-08-01,66.78488337993622
+Prince Edward Island,solar,2030-09-01,55.428576827049255
+Prince Edward Island,solar,2030-10-01,51.12588310241699
+Prince Edward Island,solar,2030-11-01,46.973891258239746
+Prince Edward Island,solar,2030-12-01,35.358438074588776
+Prince Edward Island,tidal power turbine,2029-01-01,0.037270352244377136
+Prince Edward Island,tidal power turbine,2029-02-01,0.03279368579387665
+Prince Edward Island,tidal power turbine,2029-03-01,0.042386334389448166
+Prince Edward Island,tidal power turbine,2029-04-01,-0.0023281341418623924
+Prince Edward Island,tidal power turbine,2029-05-01,-0.0025405194610357285
+Prince Edward Island,tidal power turbine,2029-06-01,0.020870273932814598
+Prince Edward Island,tidal power turbine,2029-07-01,0.00885553564876318
+Prince Edward Island,tidal power turbine,2029-08-01,-0.011992817744612694
+Prince Edward Island,tidal power turbine,2029-09-01,-0.032416295260190964
+Prince Edward Island,tidal power turbine,2029-10-01,-0.008106473833322525
+Prince Edward Island,tidal power turbine,2029-11-01,0.008432507514953613
+Prince Edward Island,tidal power turbine,2029-12-01,0.0282879751175642
+Prince Edward Island,tidal power turbine,2030-01-01,0.046796467155218124
+Prince Edward Island,tidal power turbine,2030-02-01,0.019467603415250778
+Prince Edward Island,tidal power turbine,2030-03-01,0.040573086589574814
+Prince Edward Island,tidal power turbine,2030-04-01,0.009394461289048195
+Prince Edward Island,tidal power turbine,2030-05-01,-0.024321431294083595
+Prince Edward Island,tidal power turbine,2030-06-01,0.026546653360128403
+Prince Edward Island,tidal power turbine,2030-07-01,0.013477827422320843
+Prince Edward Island,tidal power turbine,2030-08-01,-0.013698666356503963
+Prince Edward Island,tidal power turbine,2030-09-01,-0.02464645728468895
+Prince Edward Island,tidal power turbine,2030-10-01,-0.008702361024916172
+Prince Edward Island,tidal power turbine,2030-11-01,0.012166786938905716
+Prince Edward Island,tidal power turbine,2030-12-01,0.033781275153160095
+Prince Edward Island,wind power turbine,2029-01-01,64262.80667829514
+Prince Edward Island,wind power turbine,2029-02-01,68934.16585969925
+Prince Edward Island,wind power turbine,2029-03-01,65842.8415350914
+Prince Edward Island,wind power turbine,2029-04-01,60067.24249768258
+Prince Edward Island,wind power turbine,2029-05-01,49862.12041187287
+Prince Edward Island,wind power turbine,2029-06-01,36132.2516875267
+Prince Edward Island,wind power turbine,2029-07-01,32274.337184906006
+Prince Edward Island,wind power turbine,2029-08-01,31482.915212392807
+Prince Edward Island,wind power turbine,2029-09-01,32253.621295571327
+Prince Edward Island,wind power turbine,2029-10-01,31241.3063519001
+Prince Edward Island,wind power turbine,2029-11-01,32586.670977950096
+Prince Edward Island,wind power turbine,2029-12-01,41505.75110840798
+Prince Edward Island,wind power turbine,2030-01-01,61012.41432356835
+Prince Edward Island,wind power turbine,2030-02-01,68365.3209476471
+Prince Edward Island,wind power turbine,2030-03-01,66092.47311520576
+Prince Edward Island,wind power turbine,2030-04-01,61863.85442066193
+Prince Edward Island,wind power turbine,2030-05-01,50877.469443559654
+Prince Edward Island,wind power turbine,2030-06-01,36252.02657330036
+Prince Edward Island,wind power turbine,2030-07-01,31321.25173020363
+Prince Edward Island,wind power turbine,2030-08-01,31474.585674881935
+Prince Edward Island,wind power turbine,2030-09-01,33699.70855283737
+Prince Edward Island,wind power turbine,2030-10-01,33252.03397977352
+Prince Edward Island,wind power turbine,2030-11-01,34346.66475403309
+Prince Edward Island,wind power turbine,2030-12-01,41802.5735526085
+Quebec,combustible fuels,2029-01-01,114359.29439365864
+Quebec,combustible fuels,2029-02-01,101204.24255275726
+Quebec,combustible fuels,2029-03-01,90335.08773732185
+Quebec,combustible fuels,2029-04-01,102909.33416759968
+Quebec,combustible fuels,2029-05-01,110644.17470127344
+Quebec,combustible fuels,2029-06-01,118048.40630966425
+Quebec,combustible fuels,2029-07-01,96822.35137504339
+Quebec,combustible fuels,2029-08-01,58783.426891475916
+Quebec,combustible fuels,2029-09-01,134469.57171165943
+Quebec,combustible fuels,2029-10-01,162417.10697120428
+Quebec,combustible fuels,2029-11-01,153679.6467488408
+Quebec,combustible fuels,2029-12-01,141756.47492676973
+Quebec,combustible fuels,2030-01-01,101927.14766341448
+Quebec,combustible fuels,2030-02-01,97864.01416397095
+Quebec,combustible fuels,2030-03-01,78901.1858985722
+Quebec,combustible fuels,2030-04-01,107117.99385493994
+Quebec,combustible fuels,2030-05-01,112320.87990748882
+Quebec,combustible fuels,2030-06-01,139650.59949606657
+Quebec,combustible fuels,2030-07-01,110969.04137778282
+Quebec,combustible fuels,2030-08-01,50217.73640090227
+Quebec,combustible fuels,2030-09-01,99408.86769807339
+Quebec,combustible fuels,2030-10-01,177810.91281342506
+Quebec,combustible fuels,2030-11-01,173641.29622632265
+Quebec,combustible fuels,2030-12-01,139087.16753154993
+Quebec,hydraulic turbine,2029-01-01,20070386.15770578
+Quebec,hydraulic turbine,2029-02-01,22195556.11377525
+Quebec,hydraulic turbine,2029-03-01,22036643.13496351
+Quebec,hydraulic turbine,2029-04-01,20687008.865954872
+Quebec,hydraulic turbine,2029-05-01,18979490.132354256
+Quebec,hydraulic turbine,2029-06-01,16481629.286318062
+Quebec,hydraulic turbine,2029-07-01,15672577.880085228
+Quebec,hydraulic turbine,2029-08-01,14303632.25588703
+Quebec,hydraulic turbine,2029-09-01,13553683.633311627
+Quebec,hydraulic turbine,2029-10-01,13639717.770522235
+Quebec,hydraulic turbine,2029-11-01,14706186.916037558
+Quebec,hydraulic turbine,2029-12-01,16859021.919896126
+Quebec,hydraulic turbine,2030-01-01,20794394.39508724
+Quebec,hydraulic turbine,2030-02-01,21459778.266111847
+Quebec,hydraulic turbine,2030-03-01,20826912.97277355
+Quebec,hydraulic turbine,2030-04-01,20194959.123400684
+Quebec,hydraulic turbine,2030-05-01,18594520.893860336
+Quebec,hydraulic turbine,2030-06-01,16677655.101402042
+Quebec,hydraulic turbine,2030-07-01,15307942.55702257
+Quebec,hydraulic turbine,2030-08-01,14005619.310759185
+Quebec,hydraulic turbine,2030-09-01,12854550.190559743
+Quebec,hydraulic turbine,2030-10-01,12682305.437346814
+Quebec,hydraulic turbine,2030-11-01,12837110.563625095
+Quebec,hydraulic turbine,2030-12-01,15730073.653675316
+Quebec,nuclear steam turbine,2029-01-01,-66528.17867770791
+Quebec,nuclear steam turbine,2029-02-01,-65583.64053331316
+Quebec,nuclear steam turbine,2029-03-01,-82969.47012804449
+Quebec,nuclear steam turbine,2029-04-01,-69642.58305467665
+Quebec,nuclear steam turbine,2029-05-01,-73126.91356167197
+Quebec,nuclear steam turbine,2029-06-01,-45677.333927340806
+Quebec,nuclear steam turbine,2029-07-01,-24960.56497124955
+Quebec,nuclear steam turbine,2029-08-01,6593.353481893428
+Quebec,nuclear steam turbine,2029-09-01,7363.005261262879
+Quebec,nuclear steam turbine,2029-10-01,-8023.3105287421495
+Quebec,nuclear steam turbine,2029-11-01,-53892.25798044354
+Quebec,nuclear steam turbine,2029-12-01,-65460.32497510314
+Quebec,nuclear steam turbine,2030-01-01,-80305.66369071603
+Quebec,nuclear steam turbine,2030-02-01,-50124.87762328237
+Quebec,nuclear steam turbine,2030-03-01,-99096.1894582957
+Quebec,nuclear steam turbine,2030-04-01,-100899.0195017308
+Quebec,nuclear steam turbine,2030-05-01,-117148.42435568571
+Quebec,nuclear steam turbine,2030-06-01,-76767.57480464876
+Quebec,nuclear steam turbine,2030-07-01,-19317.340761981905
+Quebec,nuclear steam turbine,2030-08-01,-81.71471574751195
+Quebec,nuclear steam turbine,2030-09-01,15309.355705417693
+Quebec,nuclear steam turbine,2030-10-01,-7820.3777838964015
+Quebec,nuclear steam turbine,2030-11-01,-43572.53245394677
+Quebec,nuclear steam turbine,2030-12-01,-79014.15458656847
+Quebec,other types of electricity generation,2029-01-01,-0.1831730604171753
+Quebec,other types of electricity generation,2029-02-01,-0.19056130945682526
+Quebec,other types of electricity generation,2029-03-01,-0.16887551546096802
+Quebec,other types of electricity generation,2029-04-01,-0.137161523103714
+Quebec,other types of electricity generation,2029-05-01,-0.13299313187599182
+Quebec,other types of electricity generation,2029-06-01,-0.17516081035137177
+Quebec,other types of electricity generation,2029-07-01,-0.2511790692806244
+Quebec,other types of electricity generation,2029-08-01,-0.22587519884109497
+Quebec,other types of electricity generation,2029-09-01,-0.1731608510017395
+Quebec,other types of electricity generation,2029-10-01,-0.08492560684680939
+Quebec,other types of electricity generation,2029-11-01,-0.16594624519348145
+Quebec,other types of electricity generation,2029-12-01,-0.2017543762922287
+Quebec,other types of electricity generation,2030-01-01,-0.2225029468536377
+Quebec,other types of electricity generation,2030-02-01,-0.21120485663414001
+Quebec,other types of electricity generation,2030-03-01,-0.15316173434257507
+Quebec,other types of electricity generation,2030-04-01,-0.14152315258979797
+Quebec,other types of electricity generation,2030-05-01,-0.1218746080994606
+Quebec,other types of electricity generation,2030-06-01,-0.11077055335044861
+Quebec,other types of electricity generation,2030-07-01,-0.25084105134010315
+Quebec,other types of electricity generation,2030-08-01,-0.2764074206352234
+Quebec,other types of electricity generation,2030-09-01,-0.32280054688453674
+Quebec,other types of electricity generation,2030-10-01,-0.24595637619495392
+Quebec,other types of electricity generation,2030-11-01,-0.17371685802936554
+Quebec,other types of electricity generation,2030-12-01,-0.23201389610767365
+Quebec,solar,2029-01-01,1108.7660896778107
+Quebec,solar,2029-02-01,936.5725269913673
+Quebec,solar,2029-03-01,937.5879269838333
+Quebec,solar,2029-04-01,1119.229217171669
+Quebec,solar,2029-05-01,1277.791612148285
+Quebec,solar,2029-06-01,1911.1747294664383
+Quebec,solar,2029-07-01,2086.549266576767
+Quebec,solar,2029-08-01,2341.7655050754547
+Quebec,solar,2029-09-01,2295.1785576343536
+Quebec,solar,2029-10-01,2020.7697653770447
+Quebec,solar,2029-11-01,1712.6766741275787
+Quebec,solar,2029-12-01,1318.2840901613235
+Quebec,solar,2030-01-01,988.7800991535187
+Quebec,solar,2030-02-01,819.7393143177032
+Quebec,solar,2030-03-01,1227.319746017456
+Quebec,solar,2030-04-01,1211.2788707017899
+Quebec,solar,2030-05-01,1353.301905989647
+Quebec,solar,2030-06-01,1798.4939795732498
+Quebec,solar,2030-07-01,2280.417263507843
+Quebec,solar,2030-08-01,2510.9260606765747
+Quebec,solar,2030-09-01,2420.4980981349945
+Quebec,solar,2030-10-01,2246.672432422638
+Quebec,solar,2030-11-01,2009.014510512352
+Quebec,solar,2030-12-01,1589.3685322999954
+Quebec,wind power turbine,2029-01-01,1429630.9960660932
+Quebec,wind power turbine,2029-02-01,1352407.5149793625
+Quebec,wind power turbine,2029-03-01,1397133.5648021698
+Quebec,wind power turbine,2029-04-01,1496058.1833562849
+Quebec,wind power turbine,2029-05-01,1273613.6456956863
+Quebec,wind power turbine,2029-06-01,826553.1560301781
+Quebec,wind power turbine,2029-07-01,552976.9170739651
+Quebec,wind power turbine,2029-08-01,380761.5410282612
+Quebec,wind power turbine,2029-09-01,406256.2965106964
+Quebec,wind power turbine,2029-10-01,453231.92158961296
+Quebec,wind power turbine,2029-11-01,558907.7670612335
+Quebec,wind power turbine,2029-12-01,865572.0836596489
+Quebec,wind power turbine,2030-01-01,1341360.6060352325
+Quebec,wind power turbine,2030-02-01,1630365.892352104
+Quebec,wind power turbine,2030-03-01,1343882.2646360397
+Quebec,wind power turbine,2030-04-01,1351840.9213190079
+Quebec,wind power turbine,2030-05-01,1281136.8523068428
+Quebec,wind power turbine,2030-06-01,849502.7004237175
+Quebec,wind power turbine,2030-07-01,629861.1589605808
+Quebec,wind power turbine,2030-08-01,427954.72439980507
+Quebec,wind power turbine,2030-09-01,414055.00470376015
+Quebec,wind power turbine,2030-10-01,411986.3459048271
+Quebec,wind power turbine,2030-11-01,609693.7261688709
+Quebec,wind power turbine,2030-12-01,810757.2317709923
+Saskatchewan,combustible fuels,2029-01-01,1526209.1188411713
+Saskatchewan,combustible fuels,2029-02-01,1548010.743947506
+Saskatchewan,combustible fuels,2029-03-01,1554589.7994027138
+Saskatchewan,combustible fuels,2029-04-01,1505717.1908616424
+Saskatchewan,combustible fuels,2029-05-01,1483180.4358466268
+Saskatchewan,combustible fuels,2029-06-01,1502279.0185640454
+Saskatchewan,combustible fuels,2029-07-01,1524496.639820218
+Saskatchewan,combustible fuels,2029-08-01,1539260.6937667131
+Saskatchewan,combustible fuels,2029-09-01,1516885.1020902395
+Saskatchewan,combustible fuels,2029-10-01,1438040.759698987
+Saskatchewan,combustible fuels,2029-11-01,1494728.9682199955
+Saskatchewan,combustible fuels,2029-12-01,1501593.173403263
+Saskatchewan,combustible fuels,2030-01-01,1508547.1280408502
+Saskatchewan,combustible fuels,2030-02-01,1491106.207312405
+Saskatchewan,combustible fuels,2030-03-01,1502199.416899383
+Saskatchewan,combustible fuels,2030-04-01,1530241.2371577024
+Saskatchewan,combustible fuels,2030-05-01,1501039.6604776978
+Saskatchewan,combustible fuels,2030-06-01,1517922.7689055204
+Saskatchewan,combustible fuels,2030-07-01,1526243.5770677328
+Saskatchewan,combustible fuels,2030-08-01,1474009.9004626274
+Saskatchewan,combustible fuels,2030-09-01,1456948.968617916
+Saskatchewan,combustible fuels,2030-10-01,1469495.272135079
+Saskatchewan,combustible fuels,2030-11-01,1526380.0189996958
+Saskatchewan,combustible fuels,2030-12-01,1534033.4124103785
+Saskatchewan,hydraulic turbine,2029-01-01,212606.69791547957
+Saskatchewan,hydraulic turbine,2029-02-01,211869.6152170822
+Saskatchewan,hydraulic turbine,2029-03-01,223251.64211769405
+Saskatchewan,hydraulic turbine,2029-04-01,219346.807185784
+Saskatchewan,hydraulic turbine,2029-05-01,240590.89520898464
+Saskatchewan,hydraulic turbine,2029-06-01,229212.53802835944
+Saskatchewan,hydraulic turbine,2029-07-01,233718.56222939494
+Saskatchewan,hydraulic turbine,2029-08-01,210577.98757155985
+Saskatchewan,hydraulic turbine,2029-09-01,182249.29808003455
+Saskatchewan,hydraulic turbine,2029-10-01,181968.49970410764
+Saskatchewan,hydraulic turbine,2029-11-01,210365.33978360146
+Saskatchewan,hydraulic turbine,2029-12-01,227833.10893426838
+Saskatchewan,hydraulic turbine,2030-01-01,237262.5192368329
+Saskatchewan,hydraulic turbine,2030-02-01,212810.82727504525
+Saskatchewan,hydraulic turbine,2030-03-01,222738.08361248675
+Saskatchewan,hydraulic turbine,2030-04-01,221401.36993260685
+Saskatchewan,hydraulic turbine,2030-05-01,221142.169486627
+Saskatchewan,hydraulic turbine,2030-06-01,204057.37244019657
+Saskatchewan,hydraulic turbine,2030-07-01,190370.68078690395
+Saskatchewan,hydraulic turbine,2030-08-01,196921.39489205927
+Saskatchewan,hydraulic turbine,2030-09-01,220099.12190882865
+Saskatchewan,hydraulic turbine,2030-10-01,231704.69196759167
+Saskatchewan,hydraulic turbine,2030-11-01,227182.51594129208
+Saskatchewan,hydraulic turbine,2030-12-01,212741.57355850193
+Saskatchewan,other types of electricity generation,2029-01-01,15814.282851219177
+Saskatchewan,other types of electricity generation,2029-02-01,16254.233679771423
+Saskatchewan,other types of electricity generation,2029-03-01,15580.774784088135
+Saskatchewan,other types of electricity generation,2029-04-01,16593.690333366394
+Saskatchewan,other types of electricity generation,2029-05-01,16899.68836069107
+Saskatchewan,other types of electricity generation,2029-06-01,17356.024804115295
+Saskatchewan,other types of electricity generation,2029-07-01,16075.408272743225
+Saskatchewan,other types of electricity generation,2029-08-01,15617.57447719574
+Saskatchewan,other types of electricity generation,2029-09-01,15117.333111763
+Saskatchewan,other types of electricity generation,2029-10-01,15934.158411026001
+Saskatchewan,other types of electricity generation,2029-11-01,15729.237513542175
+Saskatchewan,other types of electricity generation,2029-12-01,15984.20833826065
+Saskatchewan,other types of electricity generation,2030-01-01,15248.593876361847
+Saskatchewan,other types of electricity generation,2030-02-01,15854.611179828644
+Saskatchewan,other types of electricity generation,2030-03-01,15774.629130363464
+Saskatchewan,other types of electricity generation,2030-04-01,15843.54995727539
+Saskatchewan,other types of electricity generation,2030-05-01,15582.489545345306
+Saskatchewan,other types of electricity generation,2030-06-01,15564.490413665771
+Saskatchewan,other types of electricity generation,2030-07-01,14505.850739479065
+Saskatchewan,other types of electricity generation,2030-08-01,14885.29895067215
+Saskatchewan,other types of electricity generation,2030-09-01,14792.199883460999
+Saskatchewan,other types of electricity generation,2030-10-01,15325.559906959534
+Saskatchewan,other types of electricity generation,2030-11-01,14916.063408851624
+Saskatchewan,other types of electricity generation,2030-12-01,14892.846457958221
+Saskatchewan,solar,2029-01-01,3235.003674507141
+Saskatchewan,solar,2029-02-01,3406.5203187465668
+Saskatchewan,solar,2029-03-01,3441.2648289203644
+Saskatchewan,solar,2029-04-01,3391.5364561080933
+Saskatchewan,solar,2029-05-01,3310.406702041626
+Saskatchewan,solar,2029-06-01,3132.926409959793
+Saskatchewan,solar,2029-07-01,3256.9228444099426
+Saskatchewan,solar,2029-08-01,2861.198820590973
+Saskatchewan,solar,2029-09-01,2708.9354174137115
+Saskatchewan,solar,2029-10-01,2704.294580221176
+Saskatchewan,solar,2029-11-01,2975.816555738449
+Saskatchewan,solar,2029-12-01,3017.080632686615
+Saskatchewan,solar,2030-01-01,3164.788095474243
+Saskatchewan,solar,2030-02-01,3160.5584859848022
+Saskatchewan,solar,2030-03-01,3230.3769397735596
+Saskatchewan,solar,2030-04-01,3196.3262705802917
+Saskatchewan,solar,2030-05-01,2964.7887148857117
+Saskatchewan,solar,2030-06-01,2700.158611059189
+Saskatchewan,solar,2030-07-01,2815.167830467224
+Saskatchewan,solar,2030-08-01,2986.067633152008
+Saskatchewan,solar,2030-09-01,3157.8694291114807
+Saskatchewan,solar,2030-10-01,3144.8943207263947
+Saskatchewan,solar,2030-11-01,3086.081990003586
+Saskatchewan,solar,2030-12-01,3071.79873752594
+Saskatchewan,wind power turbine,2029-01-01,104057.86979055405
+Saskatchewan,wind power turbine,2029-02-01,106737.28109693527
+Saskatchewan,wind power turbine,2029-03-01,108332.39983892441
+Saskatchewan,wind power turbine,2029-04-01,118733.8549861908
+Saskatchewan,wind power turbine,2029-05-01,121668.8144788742
+Saskatchewan,wind power turbine,2029-06-01,116038.38396406174
+Saskatchewan,wind power turbine,2029-07-01,111562.88512086868
+Saskatchewan,wind power turbine,2029-08-01,101325.11185741425
+Saskatchewan,wind power turbine,2029-09-01,101639.38242530823
+Saskatchewan,wind power turbine,2029-10-01,104159.03530454636
+Saskatchewan,wind power turbine,2029-11-01,102913.85850048065
+Saskatchewan,wind power turbine,2029-12-01,110506.64780473709
+Saskatchewan,wind power turbine,2030-01-01,104770.3515086174
+Saskatchewan,wind power turbine,2030-02-01,107205.29825305939
+Saskatchewan,wind power turbine,2030-03-01,108246.01061439514
+Saskatchewan,wind power turbine,2030-04-01,102741.50223112106
+Saskatchewan,wind power turbine,2030-05-01,100701.71568489075
+Saskatchewan,wind power turbine,2030-06-01,98431.44716835022
+Saskatchewan,wind power turbine,2030-07-01,100723.66902923584
+Saskatchewan,wind power turbine,2030-08-01,105659.46195459366
+Saskatchewan,wind power turbine,2030-09-01,111434.12594175339
+Saskatchewan,wind power turbine,2030-10-01,116754.47954034805
+Saskatchewan,wind power turbine,2030-11-01,109938.78233528137
+Saskatchewan,wind power turbine,2030-12-01,107501.8034992218
+Yukon,combustible fuels,2029-01-01,1614.0986279249191
+Yukon,combustible fuels,2029-02-01,1492.8032738938928
+Yukon,combustible fuels,2029-03-01,1151.0656208768487
+Yukon,combustible fuels,2029-04-01,2797.4625312387943
+Yukon,combustible fuels,2029-05-01,1531.0446343794465
+Yukon,combustible fuels,2029-06-01,3043.6187878847127
+Yukon,combustible fuels,2029-07-01,1985.2332227528095
+Yukon,combustible fuels,2029-08-01,2327.242268830538
+Yukon,combustible fuels,2029-09-01,3040.187560528517
+Yukon,combustible fuels,2029-10-01,3040.7477671504025
+Yukon,combustible fuels,2029-11-01,3629.348276764155
+Yukon,combustible fuels,2029-12-01,5170.15609523654
+Yukon,combustible fuels,2030-01-01,8192.565563380718
+Yukon,combustible fuels,2030-02-01,8014.194307982922
+Yukon,combustible fuels,2030-03-01,8006.804348289967
+Yukon,combustible fuels,2030-04-01,7675.294057190418
+Yukon,combustible fuels,2030-05-01,8803.118043005466
+Yukon,combustible fuels,2030-06-01,5693.289752662182
+Yukon,combustible fuels,2030-07-01,6668.07922577858
+Yukon,combustible fuels,2030-08-01,6709.501508533955
+Yukon,combustible fuels,2030-09-01,7594.417702615261
+Yukon,combustible fuels,2030-10-01,9249.856081962585
+Yukon,combustible fuels,2030-11-01,9055.349775612354
+Yukon,combustible fuels,2030-12-01,9849.643914759159
+Yukon,hydraulic turbine,2029-01-01,35606.21501797438
+Yukon,hydraulic turbine,2029-02-01,33738.61170619726
+Yukon,hydraulic turbine,2029-03-01,35095.46314191818
+Yukon,hydraulic turbine,2029-04-01,34876.48050373793
+Yukon,hydraulic turbine,2029-05-01,34440.88395678997
+Yukon,hydraulic turbine,2029-06-01,37727.07123339176
+Yukon,hydraulic turbine,2029-07-01,33983.94678992033
+Yukon,hydraulic turbine,2029-08-01,38319.43355703354
+Yukon,hydraulic turbine,2029-09-01,37802.59532558918
+Yukon,hydraulic turbine,2029-10-01,35650.934159100056
+Yukon,hydraulic turbine,2029-11-01,35972.15504044294
+Yukon,hydraulic turbine,2029-12-01,32583.570723176003
+Yukon,hydraulic turbine,2030-01-01,36838.15986704826
+Yukon,hydraulic turbine,2030-02-01,35499.54367786646
+Yukon,hydraulic turbine,2030-03-01,32618.19563639164
+Yukon,hydraulic turbine,2030-04-01,30930.843369722366
+Yukon,hydraulic turbine,2030-05-01,30932.03699761629
+Yukon,hydraulic turbine,2030-06-01,32398.17022794485
+Yukon,hydraulic turbine,2030-07-01,30807.18863672018
+Yukon,hydraulic turbine,2030-08-01,30523.001097381115
+Yukon,hydraulic turbine,2030-09-01,35662.813976705074
+Yukon,hydraulic turbine,2030-10-01,28758.59013709426
+Yukon,hydraulic turbine,2030-11-01,32884.70813149214
+Yukon,hydraulic turbine,2030-12-01,31194.33871227503
+Yukon,other types of electricity generation,2029-01-01,-0.1425151228904724
+Yukon,other types of electricity generation,2029-02-01,-0.016100214794278145
+Yukon,other types of electricity generation,2029-03-01,0.010545296594500542
+Yukon,other types of electricity generation,2029-04-01,-0.02419169433414936
+Yukon,other types of electricity generation,2029-05-01,-0.014285283163189888
+Yukon,other types of electricity generation,2029-06-01,-0.08433432877063751
+Yukon,other types of electricity generation,2029-07-01,-0.0853569507598877
+Yukon,other types of electricity generation,2029-08-01,-0.030543046072125435
+Yukon,other types of electricity generation,2029-09-01,-0.07816046476364136
+Yukon,other types of electricity generation,2029-10-01,-0.08707650005817413
+Yukon,other types of electricity generation,2029-11-01,-0.050816748291254044
+Yukon,other types of electricity generation,2029-12-01,-0.18700549006462097
+Yukon,other types of electricity generation,2030-01-01,-0.14851179718971252
+Yukon,other types of electricity generation,2030-02-01,-0.20907604694366455
+Yukon,other types of electricity generation,2030-03-01,-0.15162073075771332
+Yukon,other types of electricity generation,2030-04-01,-0.044925156980752945
+Yukon,other types of electricity generation,2030-05-01,-0.08420631289482117
+Yukon,other types of electricity generation,2030-06-01,-0.0726398378610611
+Yukon,other types of electricity generation,2030-07-01,-0.10911440849304199
+Yukon,other types of electricity generation,2030-08-01,-0.08134077489376068
+Yukon,other types of electricity generation,2030-09-01,-0.12932148575782776
+Yukon,other types of electricity generation,2030-10-01,0.008416814729571342
+Yukon,other types of electricity generation,2030-11-01,0.021205468103289604
+Yukon,other types of electricity generation,2030-12-01,-0.029413552954792976
+Yukon,solar,2029-01-01,16.068210080266
+Yukon,solar,2029-02-01,7.018033415079116
+Yukon,solar,2029-03-01,16.907357051968575
+Yukon,solar,2029-04-01,5.879145115613937
+Yukon,solar,2029-05-01,15.055016800761221
+Yukon,solar,2029-06-01,24.873118847608566
+Yukon,solar,2029-07-01,26.62566527724266
+Yukon,solar,2029-08-01,15.425172820687292
+Yukon,solar,2029-09-01,17.348166927695274
+Yukon,solar,2029-10-01,26.999131590127945
+Yukon,solar,2029-11-01,22.38778844475746
+Yukon,solar,2029-12-01,24.669724702835083
+Yukon,solar,2030-01-01,27.07369700074196
+Yukon,solar,2030-02-01,28.697358816862103
+Yukon,solar,2030-03-01,25.29270127415657
+Yukon,solar,2030-04-01,23.29494282603264
+Yukon,solar,2030-05-01,12.715315818786621
+Yukon,solar,2030-06-01,17.69757829606533
+Yukon,solar,2030-07-01,27.22800448536873
+Yukon,solar,2030-08-01,35.87817773222923
+Yukon,solar,2030-09-01,36.82270422577858
+Yukon,solar,2030-10-01,28.51932272315025
+Yukon,solar,2030-11-01,30.841463059186932
+Yukon,solar,2030-12-01,29.761788994073864
+Yukon,wind power turbine,2029-01-01,-16.580198146402836
+Yukon,wind power turbine,2029-02-01,-14.62042834609747
+Yukon,wind power turbine,2029-03-01,-8.150390721857548
+Yukon,wind power turbine,2029-04-01,-8.011448383331299
+Yukon,wind power turbine,2029-05-01,-2.6181288063526154
+Yukon,wind power turbine,2029-06-01,-19.819249771535397
+Yukon,wind power turbine,2029-07-01,-1.8851634114980698
+Yukon,wind power turbine,2029-08-01,-4.936610348522663
+Yukon,wind power turbine,2029-09-01,-7.489586994051933
+Yukon,wind power turbine,2029-10-01,-7.020075246691704
+Yukon,wind power turbine,2029-11-01,-4.426782205700874
+Yukon,wind power turbine,2029-12-01,-15.458409860730171
+Yukon,wind power turbine,2030-01-01,-23.309750482439995
+Yukon,wind power turbine,2030-02-01,-20.870055072009563
+Yukon,wind power turbine,2030-03-01,-24.575693905353546
+Yukon,wind power turbine,2030-04-01,-20.296102203428745
+Yukon,wind power turbine,2030-05-01,-21.599176712334156
+Yukon,wind power turbine,2030-06-01,-35.17135791480541
+Yukon,wind power turbine,2030-07-01,-35.162173584103584
+Yukon,wind power turbine,2030-08-01,-37.477683648467064
+Yukon,wind power turbine,2030-09-01,-33.44990871846676
+Yukon,wind power turbine,2030-10-01,-6.319764815270901
+Yukon,wind power turbine,2030-11-01,-14.096765033900738
+Yukon,wind power turbine,2030-12-01,-3.227365203201771
